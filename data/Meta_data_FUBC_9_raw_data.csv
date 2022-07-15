@@ -1,0 +1,13 @@
+Parameter,Description,Format,Units
+Original_country_name_in_FUBC_report,Original name of country used in FUBC report/ by respondents in the survey.,Character,Character
+Original_crop_name_in_FUBC_report,Original name of crop used in FUBC report/ by respondents in the survey.,Character,Character
+Year,"Year in which the data relates to. Year is in character format because in some reports the data relate to non-calendar years e.g. 1991/92, 1997-98. These therefore include a mixture of calendar and 'crop' years",Character,Character
+Year_for_FAO_area,Indicates FAO year for aligning areas of each crop used in estimates of fertilizer application rates per hectare.,Numeric,Years
+FAO_area_ha,Indicated FAO area for crop.,Numeric,Hectares
+IFA_area_ha,Indicated IFA area for crop.These may be different to the FAO based on feedback from the survey. ,Numeric,Hectares
+FAO_area_used_Yes_No,Indicates whether it was decided to use the FAO or IFA crop area values for the estimates of nutrient application rates per hectare. ,Character,Character
+IFA_N_t,IFA survey estimates of nitrogen applied,Numeric,Metric tonnes of nitrogen
+IFA_P2O5_t,IFA survey estimates of P2O5 applied,Numeric,Metric tonnes of P2O5
+IFA_K2O_t,IFA survey estimates of K2O applied,Numeric,Metric tonnes of K2O
+Comment,Further explanatory notes for each data point when needed. ,Character,Character
+Survey_respondent,Indicates the source of information for nutrients applied per crop. ,Character,Character
