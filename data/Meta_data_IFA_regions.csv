@@ -1,0 +1,4 @@
+Parameter,Description,Format,Units
+Country,"Country name based on official United Nations English name, with the exception that references to Belgium-Luxembourg were converted to 'Belgium', and China, Taiwan was converted to China, Taiwan",,
+ISO3_code,The 3-letter ISO3 United Nations code to signify country or region. ,,
+Region_IFA,"Region, based on the International Fertilizer Association (IFA) list of aggregate countries and regions",,

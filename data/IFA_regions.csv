@@ -1,0 +1,196 @@
+Country,ISO3_code,Region_IFA
+Afghanistan,AFG,West Asia
+Albania,ALB,Western and Central Europe
+Algeria,DZA,Africa
+Andorra,AND,Western and Central Europe
+Angola,AGO,Africa
+Antigua and Barbuda,ATG,Latin America
+Argentina,ARG,Latin America
+Armenia,ARM,Eastern Europe and Central Asia
+Australia,AUS,Oceania
+Austria,AUT,Western and Central Europe
+Azerbaijan,AZE,Eastern Europe and Central Asia
+Bahamas,BHS,Latin America
+Bahrain,BHR,West Asia
+Bangladesh,BGD,South Asia
+Barbados,BRB,Latin America
+Belarus,BLR,Eastern Europe and Central Asia
+Belgium,BEL,Western and Central Europe
+Belize,BLZ,Latin America
+Benin,BEN,Africa
+Bhutan,BTN,East Asia
+Bolivia (Plurinational State of),BOL,Latin America
+Bosnia and Herzegovina,BIH,Western and Central Europe
+Botswana,BWA,Africa
+Brazil,BRA,Latin America
+Brunei Darussalam,BRN,East Asia
+Bulgaria,BGR,Western and Central Europe
+Burkina Faso,BFA,Africa
+Burundi,BDI,Africa
+Cabo Verde,CPV,Africa
+Cambodia,KHM,East Asia
+Cameroon,CMR,Africa
+Canada,CAN,North America
+Central African Republic,CAF,Africa
+Chad,TCD,Africa
+Chile,CHL,Latin America
+China,CHN,East Asia
+"China, Taiwan",TWN,East Asia
+Colombia,COL,Latin America
+Comoros,COM,Africa
+Congo,COG,Africa
+Costa Rica,CRI,Latin America
+Côte D'Ivoire,CIV,Africa
+Croatia,HRV,Western and Central Europe
+Cuba,CUB,Latin America
+Cyprus,CYP,West Asia
+Czech Republic,CZE,Western and Central Europe
+Democratic People's Republic of Korea,PRK,East Asia
+Democratic Republic of the Congo,COD,Africa
+Denmark,DNK,Western and Central Europe
+Djibouti,DJI,Africa
+Dominica,DMA,Latin America
+Dominican Republic,DOM,Latin America
+Ecuador,ECU,Latin America
+Egypt,EGY,Africa
+El Salvador,SLV,Latin America
+Equatorial Guinea,GNQ,Africa
+Eritrea,ERI,Africa
+Estonia,EST,Eastern Europe and Central Asia
+Eswatini,SWZ,Africa
+Ethiopia,ETH,Africa
+Fiji,FJI,Oceania
+Finland,FIN,Western and Central Europe
+France,FRA,Western and Central Europe
+Gabon,GAB,Africa
+Gambia (Republic of The),GMB,Africa
+Georgia,GEO,Eastern Europe and Central Asia
+Germany,DEU,Western and Central Europe
+Ghana,GHA,Africa
+Greece,GRC,Western and Central Europe
+Grenada,GRD,Latin America
+Guatemala,GTM,Latin America
+Guinea,GIN,Africa
+Guinea Bissau,GNB,Africa
+Guyana,GUY,Latin America
+Haiti,HTI,Latin America
+Honduras,HND,Latin America
+Hungary,HUN,Western and Central Europe
+Iceland,ISL,Western and Central Europe
+India,IND,South Asia
+Indonesia,IDN,East Asia
+Iran (Islamic Republic of),IRN,West Asia
+Iraq,IRQ,West Asia
+Ireland,IRL,Western and Central Europe
+Israel,ISR,West Asia
+Italy,ITA,Western and Central Europe
+Jamaica,JAM,Latin America
+Japan,JPN,East Asia
+Jordan,JOR,West Asia
+Kazakhstan,KAZ,Eastern Europe and Central Asia
+Kenya,KEN,Africa
+Kiribati,KIR,Oceania
+Kuwait,KWT,West Asia
+Kyrgyzstan,KGZ,Eastern Europe and Central Asia
+Lao People’s Democratic Republic,LAO,East Asia
+Latvia,LVA,Eastern Europe and Central Asia
+Lebanon,LBN,West Asia
+Lesotho,LSO,Africa
+Liberia,LBR,Africa
+Libya,LBY,Africa
+Liechtenstein,LIE,Western and Central Europe
+Lithuania,LTU,Eastern Europe and Central Asia
+Luxembourg,LUX,Western and Central Europe
+Madagascar,MDG,Africa
+Malawi,MWI,Africa
+Malaysia,MYS,East Asia
+Maldives,MDV,South Asia
+Mali,MLI,Africa
+Malta,MLT,Western and Central Europe
+Marshall Islands,MHL,Oceania
+Mauritania,MRT,Africa
+Mauritius,MUS,Africa
+Mexico,MEX,Latin America
+Micronesia (Federated States of),FSM,Oceania
+Monaco,MCO,Western and Central Europe
+Mongolia,MNG,East Asia
+Montenegro,MNE,Western and Central Europe
+Morocco,MAR,Africa
+Mozambique,MOZ,Africa
+Myanmar,MMR,East Asia
+Namibia,NAM,Africa
+Nauru,NRU,Oceania
+Nepal,NPL,South Asia
+Netherlands,NLD,Western and Central Europe
+New Zealand,NZL,Oceania
+Nicaragua,NIC,Latin America
+Niger,NER,Africa
+Nigeria,NGA,Africa
+North Macedonia,MKD,Western and Central Europe
+Norway,NOR,Western and Central Europe
+Oman,OMN,West Asia
+Pakistan,PAK,South Asia
+Palau,PLW,Oceania
+Panama,PAN,Latin America
+Papua New Guinea,PNG,Oceania
+Paraguay,PRY,Latin America
+Peru,PER,Latin America
+Philippines,PHL,East Asia
+Poland,POL,Western and Central Europe
+Portugal,PRT,Western and Central Europe
+Qatar,QAT,West Asia
+Republic of Korea,KOR,East Asia
+Republic of Moldova,MDA,Eastern Europe and Central Asia
+Romania,ROU,Western and Central Europe
+Russian Federation,RUS,Eastern Europe and Central Asia
+Rwanda,RWA,Africa
+Saint Kitts and Nevis,KNA,Latin America
+Saint Lucia,LCA,Latin America
+Saint Vincent and the Grenadines,VCT,Latin America
+Samoa,WSM,Oceania
+San Marino,SMR,Western and Central Europe
+Sao Tome and Principe,STP,Africa
+Saudi Arabia,SAU,West Asia
+Senegal,SEN,Africa
+Serbia,SRB,Western and Central Europe
+Seychelles,SYC,Africa
+Sierra Leone,SLE,Africa
+Singapore,SGP,East Asia
+Slovakia,SVK,Western and Central Europe
+Slovenia,SVN,Western and Central Europe
+Solomon Islands,SLB,Oceania
+Somalia,SOM,Africa
+South Africa,ZAF,Africa
+South Sudan,SSD,Africa
+Spain,ESP,Western and Central Europe
+Sri Lanka,LKA,South Asia
+Sudan,SDN,Africa
+Suriname,SUR,Latin America
+Sweden,SWE,Western and Central Europe
+Switzerland,CHE,Western and Central Europe
+Syrian Arab Republic,SYR,West Asia
+Tajikistan,TJK,Eastern Europe and Central Asia
+Thailand,THA,East Asia
+North Macedonia,MKD,Western and Central Europe
+Timor-Leste,TLS,East Asia
+Togo,TGO,Africa
+Tonga,TON,Oceania
+Trinidad and Tobago,TTO,Latin America
+Tunisia,TUN,Africa
+Turkey,TUR,West Asia
+Turkmenistan,TKM,Eastern Europe and Central Asia
+Tuvalu,TUV,Oceania
+Uganda,UGA,Africa
+Ukraine,UKR,Eastern Europe and Central Asia
+United Arab Emirates,ARE,West Asia
+United Kingdom of Great Britain and Northern Ireland,GBR,Western and Central Europe
+United Republic of Tanzania,TZA,Africa
+United States of America,USA,North America
+Uruguay,URY,Latin America
+Uzbekistan,UZB,Eastern Europe and Central Asia
+Vanuatu,VUT,Oceania
+"Venezuela, Bolivarian Republic of",VEN,Latin America
+Viet Nam,VNM,East Asia
+Yemen,YEM,West Asia
+Zambia,ZMB,Africa
+Zimbabwe,ZWE,Africa
