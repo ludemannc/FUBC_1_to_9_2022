@@ -261,8 +261,12 @@ df1 <- mutate(df1,
               "Aver_N_P2O5_K2O_rate_kg_ha"=IFA_N_P2O5_K2O_t*1000/Crop_area_ha_final,
               "Crop_area_k_ha"=Crop_area_ha_final/1000)
 
+
+df1<- df1 %>%
+  mutate(Country= recode(Country, "Türkiye" = "Turkey")) #Change to Turkey for ease of use.
+
 #Add IFA regions
-df1 <- merge(df1,IFA_Regions, by.x=c("ISO3_code", "Country"), by.y=c("ISO3_code", "Country"))
+df1 <- merge(df1,IFA_Regions, by.x=c("Country","ISO3_code"), by.y=c("Country","ISO3_code")) #Note that in the future if the countrycode package updates country names the IFA regions file will need to be updated accordingly as occurred in 2025 with Turkey, Vietnam, Czechnia, and Venezuela
 
 #Select columns of interest in correct order. 
 df1 <- select(df1,
@@ -293,9 +297,9 @@ df1 <- select(df1,
 #Remove rows that have zero crop areas. 
 df1 <- df1[df1$Crop_area_k_ha != 0, ]
 
-#Order rows by Country
-df1 <- arrange(df1,Country )
-
+#Order rows by Country and crop
+df1 <- arrange(df1,Country, Crop )
+View(df1)
 #Combine FUBC_9 with FUBC_1_to_8 data together in a combined file. 
 FUBC_1_to_9_data <- rbind(FUBC_1_to_8_data,df1)
 
@@ -353,9 +357,12 @@ colnames(IFASTAT_data) <- c("Product","Country","Year","Consumption_1000_t")
 #Delete first row as this is the column header information. 
 IFASTAT_data <- as.data.frame(IFASTAT_data[-c(1),])
 
+#Remove non UTF-8 characters
+IFASTAT_data$Country  <- iconv(IFASTAT_data$Country , from = "ISO-8859-1", to = "UTF-8")
+
 #Create columns with internationally recognized country names, codes and regions to match survey categories. 
-#Remove special characters from country names
-IFASTAT_data$Country <-gsub("[[:punct:]]", "",  IFASTAT_data$Country) #This overcomes UTF-8 error in countrycode function when it hits Cote de Ivoire special characters. 
+# #Remove special characters from country names
+# IFASTAT_data$Country <-gsub("[[:punct:]]", "",  IFASTAT_data$Country) #This overcomes UTF-8 error in countrycode function when it hits Cote de Ivoire special characters. 
 
 #Change Belgium and Luxemburg to Belgium for simplicity. 
 IFASTAT_data$Country <-gsub("Belgium and Luxemburg", "Belgium",  IFASTAT_data$Country)
