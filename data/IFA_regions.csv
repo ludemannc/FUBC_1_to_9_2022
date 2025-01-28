@@ -45,6 +45,7 @@ Croatia,HRV,Western and Central Europe
 Cuba,CUB,Latin America
 Cyprus,CYP,West Asia
 Czech Republic,CZE,Western and Central Europe
+Czechia,CZE,Western and Central Europe
 Democratic People's Republic of Korea,PRK,East Asia
 Democratic Republic of the Congo,COD,Africa
 Denmark,DNK,Western and Central Europe
@@ -178,6 +179,7 @@ Tonga,TON,Oceania
 Trinidad and Tobago,TTO,Latin America
 Tunisia,TUN,Africa
 Turkey,TUR,West Asia
+Türkiye,TUR,West Asia
 Turkmenistan,TKM,Eastern Europe and Central Asia
 Tuvalu,TUV,Oceania
 Uganda,UGA,Africa
@@ -190,7 +192,9 @@ Uruguay,URY,Latin America
 Uzbekistan,UZB,Eastern Europe and Central Asia
 Vanuatu,VUT,Oceania
 "Venezuela, Bolivarian Republic of",VEN,Latin America
+Venezuela (Bolivarian Republic of),VEN,Latin America
 Viet Nam,VNM,East Asia
+Vietnam,VNM,East Asia
 Yemen,YEM,West Asia
 Zambia,ZMB,Africa
 Zimbabwe,ZWE,Africa
