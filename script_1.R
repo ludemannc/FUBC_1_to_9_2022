@@ -299,9 +299,31 @@ df1 <- df1[df1$Crop_area_k_ha != 0, ]
 
 #Order rows by Country and crop
 df1 <- arrange(df1,Country, Crop )
-View(df1)
+
 #Combine FUBC_9 with FUBC_1_to_8 data together in a combined file. 
 FUBC_1_to_9_data <- rbind(FUBC_1_to_8_data,df1)
+
+#Convert country names with character issues to names without character issues
+#Remove non UTF-8 characters
+FUBC_1_to_9_data$Country  <- iconv(FUBC_1_to_9_data$Country , from = "ISO-8859-1", to = "UTF-8")
+FUBC_1_to_9_data$Original_country_name_in_FUBC_report  <- iconv(FUBC_1_to_9_data$Original_country_name_in_FUBC_report , from = "ISO-8859-1", to = "UTF-8")
+
+Country_name_change <- function (df,Country){
+  df <- df %>%
+    mutate(Country = case_when(
+      str_detect(Country, regex("Ivoire", ignore_case=TRUE)) ~ "Cote d'Ivoire",  
+      str_detect(Country, regex("TÃ¼rkiye", ignore_case=TRUE)) ~ "Turkey", 
+      str_detect(Country, regex("Lao", ignore_case=TRUE)) ~ "Lao People's Democratic Republic",     
+      TRUE ~ Country))
+  return(df)      
+}
+
+FUBC_1_to_9_data <- Country_name_change (FUBC_1_to_9_data,FUBC_1_to_9_data$Country)
+
+FUBC_1_to_9_data$Original_country_name_in_FUBC_report <- ifelse(FUBC_1_to_9_data$Original_country_name_in_FUBC_report=="CÃ´te d'Ivoire","Cote d'Ivoire",FUBC_1_to_9_data$Original_country_name_in_FUBC_report)
+FUBC_1_to_9_data$Country <- ifelse(FUBC_1_to_9_data$Country=="Ivoire","Cote d'Ivoire",FUBC_1_to_9_data$Country)
+FUBC_1_to_9_data$Country <- ifelse(FUBC_1_to_9_data$Country=="kiye","Turkey",FUBC_1_to_9_data$Country)
+FUBC_1_to_9_data$Country <- ifelse(FUBC_1_to_9_data$Country=="Lao","Lao People’s Democratic Republic",FUBC_1_to_9_data$Country)
 
 #Save as csv file. ----
 write.csv(FUBC_1_to_9_data,"./results/FUBC_1_to_9_data.csv",row.names= FALSE)
