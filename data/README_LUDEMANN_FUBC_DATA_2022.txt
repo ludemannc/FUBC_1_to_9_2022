@@ -1,4 +1,4 @@
-This README_LUDEMANN_FUBC_DATA_2022.txt file was generated on 2022-07-06 by Cameron Ludemann
+This README_LUDEMANN_FUBC_DATA_2022.txt file was generated on 2025-02-04 by Cameron Ludemann
 
 GENERAL INFORMATION
 
@@ -68,6 +68,11 @@ DATA & FILE OVERVIEW
 	A. If yes, name of file(s) that was updated: All files were updated
 		i. Why was the file updated? To align to feedback from peer review in Scientific Data journal
 		ii. When was the file updated? 2022-07-05
+		
+		The IFA_regions.csv, FUBC_1_to_9.csv and FUBC_9_raw_data.csv files were updated in February 2025 
+		based on minor errors pointed out by Fernando Coello. See:
+		Coello, F., T. Decorte, I. Janssens, S. Mortier, J. Sardans, J. Penuelas and T. Verdonck (2024). 
+		Global Crop-Specific Fertilization Dataset from 1961-2019.
 
 
 METHODOLOGICAL INFORMATION
