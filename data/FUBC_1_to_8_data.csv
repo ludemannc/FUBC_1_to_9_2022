@@ -206,14 +206,14 @@
 "COSTA RICA","Costa Rica","CRI","Latin America","1991",1,1992,"Sugar cane",40,3.2,1.6,1.6,6.4,100,50,50,80,80,80,NA,NA,NA,NA
 "COSTA RICA","Costa Rica","CRI","Latin America","1991",1,1992,"Tobacco",1,0.2,0.4,0.4,1,200,400,400,100,100,100,NA,NA,NA,NA
 "COSTA RICA","Costa Rica","CRI","Latin America","1991",1,1992,"Vegetables",9,1.8,1.8,1.8,5.4,200,200,200,100,100,100,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"Banana",6,0.8,0,2.9,3.7,138,0,480,100,100,100,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"Cotton",201,8.4,7.1,7.1,22.5,43,36,36,98,98,98,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"Maize",565,1.4,0.8,0.8,2.9,49,27,27,5,5,5,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"Oil-Palm",136,0.8,1.4,1.7,3.9,24,41,49,25,25,25,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"Pineapple",6,0.8,0,2.9,3.7,138,0,480,100,100,100,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"Rice",565,2.8,1.5,1.5,5.8,49,27,27,10,10,10,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"Rubber",45,0,0.1,0.1,0.2,3,27,18,8,8,8,NA,NA,NA,NA
-"COTE DE IVOIRE","C�te D'Ivoire","CIV","Africa","1989",1,1992,"sugar Cane",22,2.3,1,4,7.2,104,46,180,100,100,100,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"Banana",6,0.8,0,2.9,3.7,138,0,480,100,100,100,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"Cotton",201,8.4,7.1,7.1,22.5,43,36,36,98,98,98,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"Maize",565,1.4,0.8,0.8,2.9,49,27,27,5,5,5,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"Oil-Palm",136,0.8,1.4,1.7,3.9,24,41,49,25,25,25,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"Pineapple",6,0.8,0,2.9,3.7,138,0,480,100,100,100,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"Rice",565,2.8,1.5,1.5,5.8,49,27,27,10,10,10,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"Rubber",45,0,0.1,0.1,0.2,3,27,18,8,8,8,NA,NA,NA,NA
+"COTE DE IVOIRE","Côte d’Ivoire","CIV","Africa","1989",1,1992,"sugar Cane",22,2.3,1,4,7.2,104,46,180,100,100,100,NA,NA,NA,NA
 "CYPRUS","Cyprus","CYP","West Asia","1990",1,1992,"Avocado",NA,0.1,NA,0,0.1,360,120,0,100,100,0,NA,NA,NA,NA
 "CYPRUS","Cyprus","CYP","West Asia","1990",1,1992,"Banana",NA,0.2,NA,0.1,0.3,500,70,250,100,100,100,NA,NA,NA,NA
 "CYPRUS","Cyprus","CYP","West Asia","1990",1,1992,"Barley",52,2.4,5.2,0,7.6,45,100,0,100,100,0,NA,NA,NA,NA
@@ -385,23 +385,23 @@
 "HONDURAS","Honduras","HND","Latin America","1990",1,1992,"Water-Melon",3,0.4,0.2,0.4,1,130,65,130,100,100,100,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Barley",297,25.5,18.8,22,66.3,110,81,95,78,78,78,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Fodder Crop",886,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Fruits",77,2,0.8,2.1,4.9,77,37,81,34,34,34,NA,NA,NA,NA
-"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Grape",111,1.2,0.6,3.1,5,74,NA,187,15,15,15,NA,NA,NA,NA
+"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Fruits",77,2,0.8,2.1,4.9,77,31,81,34,34,34,NA,NA,NA,NA
+"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Grape",111,1.2,0.6,3.1,5,74,37,187,15,15,15,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Maize",1082,153.6,82.7,106.3,342.6,182,98,126,78,78,78,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Oat",48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Onion",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Other",338,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Pasture & Fodder",1183,14.2,1.4,2.3,17.9,80,NA,13,15,15,15,NA,NA,NA,NA
-"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Potato",44,8.9,5.9,12.6,27.5,202,31,287,100,100,100,NA,NA,NA,NA
+"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Potato",44,8.9,5.9,12.6,27.5,202,135,287,100,100,100,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Rapeseed",60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Rice",12,1.5,0.9,0.6,3,156,91,69,78,78,78,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Rye",92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Soybean",42,4,3.9,4.7,12.6,95,94,111,100,100,100,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Sugar Beet",131,15.7,14,22.9,52.7,120,107,175,100,100,100,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Sunflower",347,29.1,29.5,37.1,95.8,84,85,107,100,100,100,NA,NA,NA,NA
-"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Tobacco",9,NA,NA,22.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Tobacco",9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Tomato",15,2.2,1.6,2.7,6.5,145,109,179,100,100,100,NA,NA,NA,NA
-"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Wheat",1221,152.4,86.7,94.3,333.3,160,135,99,78,78,78,NA,NA,NA,NA
+"HUNGARY","Hungary","HUN","Western and Central Europe","1989",1,1992,"Wheat",1221,152.4,86.7,94.3,333.3,160,91,99,78,78,78,NA,NA,NA,NA
 "INDIA","India","IND","South Asia","1989",1,1992,"Cotton",7331,NA,NA,NA,601.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "INDIA","India","IND","South Asia","1989",1,1992,"Groundnut",8707,NA,NA,NA,509,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "INDIA","India","IND","South Asia","1989",1,1992,"Maize",5058,NA,NA,NA,323.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -546,37 +546,37 @@
 "MAURITIUS","Mauritius","MUS","Africa","1986",1,1992,"Sugar Cane",83,10,3.1,12.5,25.5,120,37,150,100,100,100,NA,NA,NA,NA
 "MAURITIUS","Mauritius","MUS","Africa","1986",1,1992,"Tea",4,0.8,0.2,0.2,1.2,195,50,50,100,100,100,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Alfalfa",160,3.9,8.3,0,12.1,28,60,NA,86,86,NA,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Avocado",78,9,4.4,5.1,18.6,115,57,124,100,100,100,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Banana",55,11.3,1.1,6.3,18.7,220,21,47,93,93,93,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Avocado",78,9,4.4,5.1,18.6,115,57,66,100,100,100,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Banana",55,11.3,1.1,6.3,18.7,220,21,124,93,93,93,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Barley",400,14.4,4.4,0,18.8,97,30,0,37,37,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Canteloupe/Others",13,1.2,0.6,0.3,2.1,90,48,22,99,99,99,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Cauliflower",1,0.1,NA,NA,0.2,110,42,37,100,100,100,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Cereals (Other)",1848,35.2,24.8,4.3,60,34,24,0,56,56,0,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Cereals (Other)",1848,35.2,24.8,NA,60,34,24,0,56,56,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Chick pea",64,3.7,0.2,0,3.8,73,3,0,79,79,NA,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Citrus Fruits",279,17.9,5,7.1,30,119,33,26,54,54,54,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Coconut",12,0.6,NA,0.5,1.1,59,2,1,80,80,80,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Citrus Fruits",279,17.9,5,7.1,30,119,33,47,54,54,54,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Coconut",12,0.6,NA,0.5,1.1,59,2,49,80,80,80,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Coffee",587,18.1,10.8,4.3,33.2,55,33,13,56,56,56,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Cotton",343,45.9,7.3,0,53.2,176,28,0,76,76,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Cucumber",12,3,2.5,1.7,7.2,248,210,142,100,100,100,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Eggplant",1,0.5,0.3,0.2,1,450,340,180,100,100,100,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Fodder Crop",4,0.3,0.4,0.1,0.8,82,91,22,100,100,100,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Fruits (Other)",273,17.6,6.2,4.1,28,68,24,49,95,95,95,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Grape",50,3.9,1.1,0.7,5.6,78,21,38,100,100,100,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Fruits (Other)",273,17.6,6.2,4.1,28,68,24,16,95,95,95,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Grape",50,3.9,1.1,0.7,5.6,78,21,13,100,100,100,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Grasslands (Temporary)",380,19.9,3.7,0.2,23.8,128,24,1,41,41,41,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Groundnut",43,1,0.7,NA,1.8,51,36,0,47,47,47,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Groundnut",43,1,0.7,NA,1.8,51,36,1,47,47,47,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Horticulture",3,0.3,0.2,0.1,0.7,107,88,47,93,93,93,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Leguminous Fodder",5,0.3,0.3,0.1,0.7,70,61,16,99,99,99,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Lemon",34,1.7,1.5,0.9,3.1,51,15,13,100,100,100,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Lemon",34,1.7,0.5,0.9,3.1,51,15,26,100,100,100,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Lentil",2,0.2,0.1,NA,0.3,87,38,0,100,100,NA,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Maize",7853,489.4,155.2,6,650.5,82,26,1,76,76,76,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Mango",43,2.5,1,1.3,4.8,75,29,44,78,78,78,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Mango",43,2.5,1,1.3,4.8,75,29,38,78,78,78,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Oat",243,10.9,6.5,0,17.4,69,41,0,65,65,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Onion",11,1.5,0.5,0.2,2.3,145,49,24,94,94,94,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Other",111,36.5,14,2,52.5,329,126,18,100,100,100,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Papaya",13,1.3,0.5,0.4,2.2,132,47,120,76,76,76,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Papaya",13,1.3,0.5,0.4,2.2,132,47,44,76,76,76,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Pepper and chilli",84,10.5,4.8,2.7,18.1,135,62,35,93,93,93,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Pineapple",7,1.4,0.6,0.8,2.8,200,80,83,100,100,100,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Potato",65,6.5,7.4,NA,18.2,104,118,69,96,96,96,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Pineapple",7,1.4,0.6,0.8,2.8,200,80,120,100,100,100,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Potato",65,6.5,7.4,4.3,18.2,104,118,69,96,96,96,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Pulses (Other)",1,NA,NA,0,0.1,40,40,66,67,67,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Rice",149,17.9,4.8,0,22.7,129,35,0,93,93,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Safflower",115,6.2,0.9,0,7.1,71,10,0,76,76,0,NA,NA,NA,NA
@@ -584,7 +584,7 @@
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Sorghum",1934,169.1,32.4,0,201.4,141,27,0,62,62,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Soybean",370,10.5,12.3,0,22.8,30,35,0,95,95,0,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Squash and gourd",11,1.8,0.7,NA,2.5,164,64,3,100,100,100,NA,NA,NA,NA
-"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Strawberry",4,0.9,0.5,0.3,1.6,213,113,16,100,100,100,NA,NA,NA,NA
+"MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Strawberry",4,0.9,0.5,0.3,1.6,213,113,83,100,100,100,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Sugar Cane",654,79.7,23.8,20.8,124.4,134,40,35,91,91,91,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Tobacco",32,2.9,1.6,1.7,6.1,90,50,53,99,99,99,NA,NA,NA,NA
 "MEXICO","Mexico","MEX","Latin America","1990",1,1992,"Tomato",55,14.8,7.8,4.7,27.3,271,144,86,99,99,99,NA,NA,NA,NA
@@ -619,10 +619,10 @@
 "MYANMAR","Myanmar","MMR","East Asia","1991",1,1992,"Tobacco",33,0.1,0,0.1,0.2,46,NA,58,6,NA,6,NA,NA,NA,NA
 "MYANMAR","Myanmar","MMR","East Asia","1991",1,1992,"Wheat",136,0.4,0.2,0,0.6,7,4,0,41,41,41,NA,NA,NA,NA
 "NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Barley",30,NA,NA,NA,NA,NA,NA,NA,40,40,40,NA,NA,NA,NA
-"NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Maize",751,3.6,1.2,0.3,5.1,1.2,4,1,40,40,40,NA,NA,NA,NA
+"NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Maize",751,3.6,1.2,0.3,5.1,12,4,1,40,40,40,NA,NA,NA,NA
 "NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Millet",194,NA,NA,NA,NA,NA,NA,NA,40,40,40,NA,NA,NA,NA
 "NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Oil crops",154,1.7,0.6,0.1,2.4,27,10,2,40,40,40,NA,NA,NA,NA
-"NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Rice",1433,9.2,3.4,0.6,13.2,16,6,16,40,40,40,NA,NA,NA,NA
+"NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Rice",1433,9.2,3.4,0.6,13.2,16,6,1,40,40,40,NA,NA,NA,NA
 "NEPAL","Nepal","NPL","South Asia","1989",1,1992,"sugar Cane",32,NA,NA,NA,NA,NA,NA,NA,40,40,40,NA,NA,NA,NA
 "NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Tobacco",8,NA,NA,NA,NA,NA,NA,NA,40,40,40,NA,NA,NA,NA
 "NEPAL","Nepal","NPL","South Asia","1989",1,1992,"Vegetables",84,4,1.4,0.2,5.6,118,43,7,40,40,40,NA,NA,NA,NA
@@ -699,7 +699,7 @@
 "PANAMA","Panama","PAN","Latin America","1991",1,1992,"Maize",17,1.5,0.4,0.2,2.1,121,33,16,74,74,74,NA,NA,NA,NA
 "PANAMA","Panama","PAN","Latin America","1991",1,1992,"Oil-Palm",2,0.1,0,0,0.1,55,0,0,100,0,0,NA,NA,NA,NA
 "PANAMA","Panama","PAN","Latin America","1991",1,1992,"Onion",10,0.9,0.7,0.3,1.9,87,65,33,100,100,100,NA,NA,NA,NA
-"PANAMA","Panama","PAN","Latin America","1991",1,1992,"Pineapple",1,0.1,0.1,0.1,0.2,128,60,NA,100,100,100,NA,NA,NA,NA
+"PANAMA","Panama","PAN","Latin America","1991",1,1992,"Pineapple",1,0.1,0.1,0.1,0.2,128,60,59,100,100,100,NA,NA,NA,NA
 "PANAMA","Panama","PAN","Latin America","1991",1,1992,"Plantain",2,0.1,0,NA,0.1,84,NA,0,40,0,0,NA,NA,NA,NA
 "PANAMA","Panama","PAN","Latin America","1991",1,1992,"Potato",1,0.3,0.2,0.1,0.6,292,218,109,100,100,100,NA,NA,NA,NA
 "PANAMA","Panama","PAN","Latin America","1991",1,1992,"Rice",47,4.7,1.6,0.8,7,100,33,16,100,100,100,NA,NA,NA,NA
@@ -714,22 +714,22 @@
 "PARAGUAY","Paraguay","PRY","Latin America","1991",1,1992,"Sugar cane",47,0.2,0.1,0.4,0.7,40,16,60,13,13,13,NA,NA,NA,NA
 "PARAGUAY","Paraguay","PRY","Latin America","1991",1,1992,"Vegetables",12,0.4,0.4,0.5,1.2,80,75,93,42,42,42,NA,NA,NA,NA
 "PARAGUAY","Paraguay","PRY","Latin America","1991",1,1992,"Wheat",241,2.1,3.7,2.4,8.2,27,46,30,33,33,33,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Barley",120,2.9,0,2.9,NA,60,0,0,40,0,0,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Cassava",19,0.5,0.2,0.7,NA,80,30,20,30,30,30,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Cocoa",11,0.7,0.1,0.9,NA,120,20,20,50,50,50,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Coffee",190,13.7,2.3,18.2,NA,120,20,20,60,60,60,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Cotton",140,20.2,5,30.2,NA,160,40,40,90,90,90,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Groundnut",4,0.1,0,0.1,NA,60,0,0,30,0,0,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Jute",2,NA,0,NA,NA,80,0,0,30,0,0,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Maize",247,24.2,5.2,34.6,NA,140,30,30,70,70,70,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Maize",222,5.3,1.3,6.7,NA,80,20,0,30,30,30,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Oat",35,0.6,0,0.6,NA,40,0,0,40,0,0,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Potato",221,19.9,5.3,29.2,NA,150,40,30,60,60,60,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Rice",216,22.7,3,28.7,NA,150,20,20,70,70,70,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Soybean",4,0.1,NA,0.1,NA,60,20,0,40,40,40,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Tea",4,0.2,NA,0.2,NA,80,20,20,50,50,50,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Tobacco",3,0.3,NA,0.3,NA,120,20,20,70,70,70,NA,NA,NA,NA
-"PERU","Peru","PER","Latin America","1991",1,1992,"Wheat",120,2.9,0,2.9,NA,60,0,0,40,0,0,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Barley",120,2.9,0,NA,2.9,60,0,0,40,0,0,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Cassava",19,0.5,0.2,0.1,0.7,80,30,20,30,30,30,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Cocoa",11,0.7,0.1,0.1,0.9,120,20,20,50,50,50,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Coffee",190,13.7,2.3,2.3,18.2,120,20,20,60,60,60,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Cotton",140,20.2,5,5,30.2,160,40,40,90,90,90,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Groundnut",4,0.1,0,NA,0.1,60,0,0,30,0,0,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Jute",2,0.000048,0,NA,0,80,0,0,30,0,0,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Maize",247,24.2,5.2,5.2,34.6,140,30,30,70,70,70,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Maize",222,5.3,1.3,NA,6.7,80,20,NA,30,30,NA,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Oat",35,0.6,0,NA,0.6,40,0,0,40,0,0,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Potato",221,19.9,5.3,4,29.2,150,40,30,60,60,60,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Rice",216,22.7,3,3,28.7,150,20,20,70,70,70,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Soybean",4,0.1,NA,NA,0.1,60,20,0,40,40,40,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Tea",4,0.2,NA,0.04,0.2,80,20,20,50,50,50,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Tobacco",3,0.3,NA,0.042,0.3,120,20,20,70,70,70,NA,NA,NA,NA
+"PERU","Peru","PER","Latin America","1991",1,1992,"Wheat",120,2.9,0,NA,2.9,60,0,0,40,0,0,NA,NA,NA,NA
 "PHILIPPINES","Philippines","PHL","East Asia","1990",1,1992,"Banana",300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "PHILIPPINES","Philippines","PHL","East Asia","1990",1,1992,"Cassava",214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "PHILIPPINES","Philippines","PHL","East Asia","1990",1,1992,"Citrus Fruits",29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -924,18 +924,18 @@
 "SWITZERLAND","Switzerland","CHE","Western and Central Europe","1990",1,1992,"Wheat",100,12,6,12.5,30.5,120,60,125,100,100,100,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Cassava",1492,11.2,11.2,11.2,33.6,75,75,75,10,10,10,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Coconut",393,0.3,0.3,0.5,1.1,8,8,13,10,10,10,NA,NA,NA,NA
-"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Coffee",63,3.6,3.6,8.3,10.9,75,75,75,77,77,77,NA,NA,NA,NA
-"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Groundnut",122,0,2.7,19.1,2.7,0,38,0,NA,59,0,NA,NA,NA,NA
+"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Coffee",63,3.6,3.6,3.6,10.9,75,75,75,77,77,77,NA,NA,NA,NA
+"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Groundnut",122,0,2.7,NA,2.7,0,38,0,NA,59,0,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Maize",1746,66.6,66.6,0,133.1,63,63,0,61,61,0,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Mungbean",449,0,4,0,4,NA,38,0,0,24,0,NA,NA,NA,NA
-"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Oil-Palm",142,9.2,7.7,0,36,66,55,138,98,98,98,NA,NA,NA,NA
+"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Oil-Palm",142,9.2,7.7,19.1,36,66,55,138,98,98,98,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Other",3291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Pineapple",75,11.8,11.8,19.1,42.6,160,160,260,98,98,98,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Rice",9906,379.7,134.7,21.1,535.5,45,16,3,85,85,85,NA,NA,NA,NA
-"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Rubber",1759,41.7,20.9,NA,99.1,30,15,27,78,78,78,NA,NA,NA,NA
+"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Rubber",1759,41.7,20.9,36.5,99.1,30,15,27,78,78,78,NA,NA,NA,NA
 "THAILAND","Thailand","THA","East Asia","1990",1,1992,"Sorghum",194,1.2,1.2,NA,2.4,63,63,NA,10,10,0,NA,NA,NA,NA
-"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Soybean",425,0,8,3.6,8,0,38,0,0,50,0,NA,NA,NA,NA
-"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Sugar cane",789,50.8,10.3,36.5,69.3,65,65,105,99,20,10,NA,NA,NA,NA
+"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Soybean",425,0,8,NA,8,0,38,0,0,50,0,NA,NA,NA,NA
+"THAILAND","Thailand","THA","East Asia","1990",1,1992,"Sugar cane",789,50.8,10.3,8.3,69.3,65,65,105,99,20,10,NA,NA,NA,NA
 "TOGO","Togo","TGO","Africa","1990",1,1992,"Cassava",77,NA,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
 "TOGO","Togo","TGO","Africa","1990",1,1992,"Coffee",21,0.2,0.2,0.1,0.5,21,19,7,46,46,46,NA,NA,NA,NA
 "TOGO","Togo","TGO","Africa","1990",1,1992,"Cotton",81,3,2.6,1.6,7.3,38,33,20,99,99,99,NA,NA,NA,NA
@@ -946,37 +946,37 @@
 "TOGO","Togo","TGO","Africa","1990",1,1992,"Sorghum",184,0.7,0.3,0.2,1.1,24,9,8,15,15,15,NA,NA,NA,NA
 "TOGO","Togo","TGO","Africa","1990",1,1992,"Sugar Cane",1,0.3,0.2,0.2,0.7,308,174,174,100,100,100,NA,NA,NA,NA
 "TOGO","Togo","TGO","Africa","1990",1,1992,"Yam",43,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Alfalfa",184,4.4,2.4,0,6.8,42,23,0,58,58,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Barley",3445,97.8,53.8,0,151.6,40,22,0,71,71,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Bean",42,2.6,1.5,NA,4.1,87,49,0,71,71,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"cereals (Other)",149,4,2.2,0,6.2,40,22,3,67,67,91,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Chick pea",778,6.8,5.5,NA,12.3,22,18,0,40,40,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Citrus Fruits",513,3.5,1.5,0.5,5.5,138,57,6,5,5,56,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Clover &  Mixtures",92,2.9,4.4,0,7.3,86,128,0,37,37,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Cotton",740,79.2,23.7,0,102.9,107,32,3,100,100,99,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Fodder Crop (Other)",117,5,2.4,0,7.5,43,21,0,100,100,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Fruits (Other)",430,24.2,9.3,1.3,34.8,56,22,6,100,100,100,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Grape",590,22.9,10,1.9,34.9,69,30,1,56,56,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Groundnut",23,1.4,0.6,0.1,2,59,24,3,100,100,39,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Hazelnut",650,28.7,5.7,0,34.5,82,16,0,54,54,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Lentil",983,11.3,13.8,0,25.1,25,31,1,46,46,76,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Maize",500,40,13.6,0.4,54,94,32,1,85,85,85,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Olive",856,14.3,6,1,21.3,43,18,0,39,39,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Pea",176,6.9,4,0.1,11,54,31,0,73,73,40,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Pistachio",193,1.4,0.6,0,2,67,26,3,11,11,100,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Potato",196,33.5,6.6,0.5,40.7,188,37,1,91,91,71,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Pulses (Other)",268,2.8,5.5,0,8.3,23,46,18,45,45,5,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Rice",51,6.4,1.3,0,7.7,137,28,0,92,92,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Rye",180,4.8,2.7,0,7.5,40,22,0,67,67,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Sesame",94,2,1.2,0,3.2,36,22,0,59,59,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Soybean",66,3.5,2.2,0,5.8,63,40,8,85,85,86,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Sugar Beet",345,50.7,32.4,24.2,107.3,147,94,3,100,100,100,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Sunflower",750,63.2,27.1,5.2,95.5,98,42,70,86,86,100,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Tea",86,2.8,0.4,0.3,3.5,32,5,1,100,100,82,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Tobacco",237,6.2,3.1,0.2,9.5,32,16,0,82,82,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Vegetables",612,63.3,20.8,1.9,86,104,34,0,99,99,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Vetch",245,0.2,0.1,0,0.4,47,31,0,2,2,0,NA,NA,NA,NA
-"TURKEY","Turkey","TUR","West Asia","1988",1,1992,"Wheat",9435,462.1,208.7,0,670.8,62,28,0,79,79,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Alfalfa",184,4.4,2.4,0,6.8,42,23,0,58,58,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Barley",3445,97.8,53.8,0,151.6,40,22,0,71,71,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Bean",42,2.6,1.5,NA,4.1,87,49,1,71,71,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"cereals (Other)",149,4,2.2,0,6.2,40,22,0,67,67,91,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Chick pea",778,6.8,5.5,NA,12.3,22,18,0,40,40,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Citrus Fruits",513,3.5,1.5,0.5,5.5,138,57,18,5,5,56,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Clover &  Mixtures",92,2.9,4.4,0,7.3,86,128,0,37,37,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Cotton",740,79.2,23.7,0,102.9,107,32,NA,100,100,99,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Fodder Crop (Other)",117,5,2.4,0,7.5,43,21,0,100,100,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Fruits (Other)",430,24.2,9.3,1.3,34.8,56,22,3,100,100,100,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Grape",590,22.9,10,1.9,34.9,69,30,6,56,56,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Groundnut",23,1.4,0.6,0.1,2,59,24,6,100,100,39,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Hazelnut",650,28.7,5.7,0,34.5,82,16,1,54,54,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Lentil",983,11.3,13.8,0,25.1,25,31,NA,46,46,76,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Maize",500,40,13.6,0.4,54,94,32,1,85,85,85,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Olive",856,14.3,6,1,21.3,43,18,3,39,39,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Pea",176,6.9,4,0.1,11,54,31,1,73,73,40,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Pistachio",193,1.4,0.6,0,2,67,26,0,11,11,100,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Potato",196,33.5,6.6,0.5,40.7,188,37,3,91,91,71,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Pulses (Other)",268,2.8,5.5,0,8.3,23,46,NA,45,45,5,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Rice",51,6.4,1.3,0,7.7,137,28,0,92,92,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Rye",180,4.8,2.7,0,7.5,40,22,0,67,67,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Sesame",94,2,1.2,0,3.2,36,22,0,59,59,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Soybean",66,3.5,2.2,0,5.8,63,40,NA,85,85,86,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Sugar Beet",345,50.7,32.4,24.2,107.3,147,94,70,100,100,100,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Sunflower",750,63.2,27.1,5.2,95.5,98,42,8,86,86,100,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Tea",86,2.8,0.4,0.3,3.5,32,5,3,100,100,82,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Tobacco",237,6.2,3.1,0.2,9.5,32,16,1,82,82,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Vegetables",612,63.3,20.8,1.9,86,104,34,3,99,99,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Vetch",245,0.2,0.1,0,0.4,47,31,0,2,2,0,NA,NA,NA,NA
+"TURKEY","Türkiye","TUR","West Asia","1988",1,1992,"Wheat",9435,462.1,208.7,0,670.8,62,28,0,79,79,0,NA,NA,NA,NA
 "UNITED ARAB EMIRATES","United Arab Emirates","ARE","West Asia","1990",1,1992,"Fruits",3,0.6,0.6,0.3,1.5,200,200,100,100,100,100,NA,NA,NA,NA
 "UNITED ARAB EMIRATES","United Arab Emirates","ARE","West Asia","1990",1,1992,"Other",8,2,1.8,0.8,4.6,250,220,100,100,100,100,NA,NA,NA,NA
 "UNITED ARAB EMIRATES","United Arab Emirates","ARE","West Asia","1990",1,1992,"Vegetables",9,2.7,2.3,1.4,6.3,300,250,150,100,100,100,NA,NA,NA,NA
@@ -1030,20 +1030,20 @@
 "URUGUAY","Uruguay","URY","Latin America","1990",1,1992,"Sugar cane",10,2,0.3,1.4,3.7,203,34,136,100,100,100,NA,NA,NA,NA
 "URUGUAY","Uruguay","URY","Latin America","1990",1,1992,"Vegetables",24,1.4,1,0.3,2.7,57,41,14,100,100,100,NA,NA,NA,NA
 "URUGUAY","Uruguay","URY","Latin America","1990",1,1992,"Wheat",225,10.7,7.6,0.1,18.4,52,37,1,91,91,91,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Banana",69,7.5,1.7,3.3,12.4,180,40,80,60,60,60,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Bean",65,3.3,1.6,1,5.9,100,50,30,50,50,50,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Cocoa",64,0.3,0.3,0.3,0.9,45,45,45,10,10,10,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Coffee",275,14,4.1,6.6,24.8,170,50,80,30,30,30,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Cotton",49,3.8,2.2,2.2,8.2,80,45,45,98,98,98,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Maize",489,52.8,35.2,26.4,114.4,120,80,60,90,90,90,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Orange",43,2.6,1.5,2.9,6.9,70,40,80,85,85,85,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Other",105,7.8,2.6,2.6,13,142,48,48,52,52,52,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Potato",16,2.4,1.5,1.3,5.2,150,92,80,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Rice",164,16.4,9.8,9.8,36.1,100,60,60,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Sesame",111,1,1.3,0.7,3,30,40,20,30,30,30,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Sorghum",313,23.5,18.8,11.7,54,100,80,50,75,75,75,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Sugar Cane",125,16.9,16.9,11.3,45,150,150,100,90,90,90,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1991",1,1992,"Sunflower",42,4.2,2.1,1.3,7.6,100,50,30,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Banana",69,7.5,1.7,3.3,12.4,180,40,80,60,60,60,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Bean",65,3.3,1.6,1,5.9,100,50,30,50,50,50,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Cocoa",64,0.3,0.3,0.3,0.9,45,45,45,10,10,10,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Coffee",275,14,4.1,6.6,24.8,170,50,80,30,30,30,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Cotton",49,3.8,2.2,2.2,8.2,80,45,45,98,98,98,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Maize",489,52.8,35.2,26.4,114.4,120,80,60,90,90,90,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Orange",43,2.6,1.5,2.9,6.9,70,40,80,85,85,85,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Other",105,7.8,2.6,2.6,13,142,48,48,52,52,52,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Potato",16,2.4,1.5,1.3,5.2,150,92,80,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Rice",164,16.4,9.8,9.8,36.1,100,60,60,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Sesame",111,1,1.3,0.7,3,30,40,20,30,30,30,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Sorghum",313,23.5,18.8,11.7,54,100,80,50,75,75,75,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Sugar Cane",125,16.9,16.9,11.3,45,150,150,100,90,90,90,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1991",1,1992,"Sunflower",42,4.2,2.1,1.3,7.6,100,50,30,100,100,100,NA,NA,NA,NA
 "VIET NAM","Viet Nam","VNM","East Asia","1990",1,1992,"Maize",432,13.8,NA,NA,13.8,32,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "VIET NAM","Viet Nam","VNM","East Asia","1990",1,1992,"Other",1826,2.3,NA,NA,2.3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "VIET NAM","Viet Nam","VNM","East Asia","1990",1,1992,"Pulses",293,7.3,NA,NA,7.3,25,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1229,12 +1229,12 @@
 "COSTA RICA","Costa Rica","CRI","Latin America","1991/92",2,1994,"Sugar Cane",40,3.2,1.6,1.6,6.4,100,50,50,80,80,80,NA,NA,NA,NA
 "COSTA RICA","Costa Rica","CRI","Latin America","1991/92",2,1994,"Tobacco",1,0.2,0.4,0.4,1,200,400,400,100,100,100,NA,NA,NA,NA
 "COSTA RICA","Costa Rica","CRI","Latin America","1991/92",2,1994,"Vegetables",9,1.8,1.8,1.8,5.4,200,200,200,100,100,100,NA,NA,NA,NA
-"COTE D'IVOIRE","C�te D'Ivoire","CIV","Africa","1993",2,1994,"Banana",15,1.1,0,3.5,4.6,184,0,576,40,0,40,NA,NA,NA,NA
-"COTE D'IVOIRE","C�te D'Ivoire","CIV","Africa","1993",2,1994,"Cotton",224,5.2,4.4,4.4,13.9,43,36,36,54,54,54,NA,NA,NA,NA
-"COTE D'IVOIRE","C�te D'Ivoire","CIV","Africa","1993",2,1994,"Maize",1008,7.3,4,4,15.3,66,36,36,11,11,11,NA,NA,NA,NA
-"COTE D'IVOIRE","C�te D'Ivoire","CIV","Africa","1993",2,1994,"Oil-Palm",140,1.1,1.5,2.2,4.8,71,100,143,11,11,11,NA,NA,NA,NA
-"COTE D'IVOIRE","C�te D'Ivoire","CIV","Africa","1993",2,1994,"Rice",506,8.6,4.1,4.1,16.9,50,24,24,34,34,34,NA,NA,NA,NA
-"COTE D'IVOIRE","C�te D'Ivoire","CIV","Africa","1993",2,1994,"Sugar Cane",30,1.8,0.4,3.6,5.8,92,18,180,67,67,67,NA,NA,NA,NA
+"COTE D'IVOIRE","Côte d’Ivoire","CIV","Africa","1993",2,1994,"Banana",15,1.1,0,3.5,4.6,184,0,576,40,0,40,NA,NA,NA,NA
+"COTE D'IVOIRE","Côte d’Ivoire","CIV","Africa","1993",2,1994,"Cotton",224,5.2,4.4,4.4,13.9,43,36,36,54,54,54,NA,NA,NA,NA
+"COTE D'IVOIRE","Côte d’Ivoire","CIV","Africa","1993",2,1994,"Maize",1008,7.3,4,4,15.3,66,36,36,11,11,11,NA,NA,NA,NA
+"COTE D'IVOIRE","Côte d’Ivoire","CIV","Africa","1993",2,1994,"Oil-Palm",140,1.1,1.5,2.2,4.8,71,100,143,11,11,11,NA,NA,NA,NA
+"COTE D'IVOIRE","Côte d’Ivoire","CIV","Africa","1993",2,1994,"Rice",506,8.6,4.1,4.1,16.9,50,24,24,34,34,34,NA,NA,NA,NA
+"COTE D'IVOIRE","Côte d’Ivoire","CIV","Africa","1993",2,1994,"Sugar Cane",30,1.8,0.4,3.6,5.8,92,18,180,67,67,67,NA,NA,NA,NA
 "CROATIA","Croatia","HRV","Western and Central Europe","1991",2,1994,"Barley",52,2.5,1.5,1.6,5.5,56,33,35,86,86,86,NA,NA,NA,NA
 "CROATIA","Croatia","HRV","Western and Central Europe","1991",2,1994,"Bean",30,0.3,0.4,0.5,1.3,50,65,70,23,23,23,NA,NA,NA,NA
 "CROATIA","Croatia","HRV","Western and Central Europe","1991",2,1994,"Fodder Crop",418,6.7,3.3,3.3,13.4,NA,NA,NA,NA,NA,NA,16,8,8,NA
@@ -1530,8 +1530,8 @@
 "JORDAN","Jordan","JOR","West Asia","1993",2,1994,"Chick pea",4.6,0,0.2,0,0.3,NA,NA,NA,NA,NA,NA,10,50,0,NA
 "JORDAN","Jordan","JOR","West Asia","1993",2,1994,"Lentil",7.4,0,0.4,0,0.4,NA,NA,NA,NA,NA,NA,1,50,NA,NA
 "JORDAN","Jordan","JOR","West Asia","1993",2,1994,"Wheat",72.8,0.5,0.3,0,0.9,80,50,NA,9,9,9,NA,NA,NA,NA
-"LAOS","Lao People�s Democratic Republic","LAO","East Asia","1993",2,1994,"Rice",538,2.8,1.2,0,4.1,48,21,0,11,11,0,NA,NA,NA,NA
-"LAOS","Lao People�s Democratic Republic","LAO","East Asia","1993",2,1994,"Tobacco",7,0,0.1,0,0.3,30,45,30,43,43,43,NA,NA,NA,NA
+"LAOS","Lao People’s Democratic Republic","LAO","East Asia","1993",2,1994,"Rice",538,2.8,1.2,0,4.1,48,21,0,11,11,0,NA,NA,NA,NA
+"LAOS","Lao People’s Democratic Republic","LAO","East Asia","1993",2,1994,"Tobacco",7,0,0.1,0,0.3,30,45,30,43,43,43,NA,NA,NA,NA
 "LATVIA","Latvia","LVA","Eastern Europe and Central Asia","1990/91",2,1994,"Flax",12,0.2,0.9,1.3,2.5,17,79,112,100,100,100,NA,NA,NA,NA
 "LATVIA","Latvia","LVA","Eastern Europe and Central Asia","1990/91",2,1994,"Fruits",3,0.4,0.3,0.4,1.1,128,108,145,100,100,100,NA,NA,NA,NA
 "LATVIA","Latvia","LVA","Eastern Europe and Central Asia","1990/91",2,1994,"Pasture & Fodder",831,64,31.6,59,154.6,77,38,71,100,100,100,NA,NA,NA,NA
@@ -1968,31 +1968,31 @@
 "URUGUAY","Uruguay","URY","Latin America","1990/91",2,1994,"Sugar Cane",10,2,0.3,1.4,3.7,203,34,135.6,100,100,100,NA,NA,NA,NA
 "URUGUAY","Uruguay","URY","Latin America","1990/91",2,1994,"Vegetables",24,1.4,1,0.3,2.7,56.5,40.8,13.6,100,100,100,NA,NA,NA,NA
 "URUGUAY","Uruguay","URY","Latin America","1990/91",2,1994,"Wheat",225,10.7,7.6,0.1,18.4,52.3,37,0.6,91,91,91,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Bean",40,1.7,1.4,1,4.1,81,66,49,52,52,52,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Cassava",24,0.5,0.9,0.5,1.9,57,107,54,36,36,36,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Citrus Fruits",37,5,2.4,2.4,9.7,159,75,75,85,85,85,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Cocoa",65,1.2,0.7,0.5,2.5,160,95,70,12,12,12,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Coconut",20,0.2,0.3,0.2,0.8,96,113,83,13,13,13,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Coffee",225,8.9,5.3,3.9,18.2,158,95,70,25,25,25,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Cotton",35,3.6,1.9,1.4,6.8,109,57,42,94,94,94,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Fruits (Other)",68,6.3,2.9,2.9,12.1,163,74,75,57,57,57,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Groundnut",4,0.3,0.2,0.2,0.7,87,57,42,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Maize",262,27.8,17.1,12.7,57.6,107,66,49,99,99,99,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Oil-Palm",20,2.3,1.9,1.9,6.1,118,97,97,98,98,98,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Pasture & Fodder",3500,17.4,5.3,2.5,25.2,62,19,9,8,8,8,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Plantain",116,7.3,4,4.3,15.6,94,52,55,67,67,67,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Potato",9,0.8,0.6,0.7,2.2,91,70,80,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Rice",168,22.3,10.9,8.1,41.3,133,65,48,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Roots/Tubers (Other)",25,0,0.2,0,0.3,40,120,50,5,5,5,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Sesame",22,0.5,0.3,0.2,0.9,69,38,27,31,31,31,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Sorghum",154,12.7,7.9,5.9,26.5,87,54,40,95,95,95,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Soybean",3,0.1,0.1,0.1,0.4,43,43,43,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Sugar Cane",108,15.4,6.6,7.8,29.8,155,66,79,92,92,92,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Sunflower",22,2.1,0.8,0.8,3.7,96,37,37,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Tobacco",9,1,1.3,1.8,4.1,115,140,200,100,100,100,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Tomato",9,1.3,0.6,0.4,2.3,153,65,49,97,97,97,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Vegetables (Other)",22,2.7,1.4,1,5.1,131,66,49,95,95,95,NA,NA,NA,NA
-"VENEZUELA","Venezuela, Bolivarian Republic of","VEN","Latin America","1993",2,1994,"Water Melon",13,1.6,0.8,0.6,3,132,66,49,92,92,92,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Bean",40,1.7,1.4,1,4.1,81,66,49,52,52,52,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Cassava",24,0.5,0.9,0.5,1.9,57,107,54,36,36,36,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Citrus Fruits",37,5,2.4,2.4,9.7,159,75,75,85,85,85,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Cocoa",65,1.2,0.7,0.5,2.5,160,95,70,12,12,12,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Coconut",20,0.2,0.3,0.2,0.8,96,113,83,13,13,13,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Coffee",225,8.9,5.3,3.9,18.2,158,95,70,25,25,25,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Cotton",35,3.6,1.9,1.4,6.8,109,57,42,94,94,94,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Fruits (Other)",68,6.3,2.9,2.9,12.1,163,74,75,57,57,57,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Groundnut",4,0.3,0.2,0.2,0.7,87,57,42,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Maize",262,27.8,17.1,12.7,57.6,107,66,49,99,99,99,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Oil-Palm",20,2.3,1.9,1.9,6.1,118,97,97,98,98,98,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Pasture & Fodder",3500,17.4,5.3,2.5,25.2,62,19,9,8,8,8,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Plantain",116,7.3,4,4.3,15.6,94,52,55,67,67,67,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Potato",9,0.8,0.6,0.7,2.2,91,70,80,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Rice",168,22.3,10.9,8.1,41.3,133,65,48,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Roots/Tubers (Other)",25,0,0.2,0,0.3,40,120,50,5,5,5,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Sesame",22,0.5,0.3,0.2,0.9,69,38,27,31,31,31,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Sorghum",154,12.7,7.9,5.9,26.5,87,54,40,95,95,95,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Soybean",3,0.1,0.1,0.1,0.4,43,43,43,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Sugar Cane",108,15.4,6.6,7.8,29.8,155,66,79,92,92,92,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Sunflower",22,2.1,0.8,0.8,3.7,96,37,37,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Tobacco",9,1,1.3,1.8,4.1,115,140,200,100,100,100,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Tomato",9,1.3,0.6,0.4,2.3,153,65,49,97,97,97,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Vegetables (Other)",22,2.7,1.4,1,5.1,131,66,49,95,95,95,NA,NA,NA,NA
+"VENEZUELA","Venezuela (Bolivarian Republic of)","VEN","Latin America","1993",2,1994,"Water Melon",13,1.6,0.8,0.6,3,132,66,49,92,92,92,NA,NA,NA,NA
 "VIET NAM","Viet Nam","VNM","East Asia","1990/91",2,1994,"Maize",432,13.8,0,0,13.8,NA,NA,NA,NA,NA,NA,32,0,0,NA
 "VIET NAM","Viet Nam","VNM","East Asia","1990/91",2,1994,"Other",1826,2.4,0,0,2.4,NA,NA,NA,NA,NA,NA,1.3,0,0,NA
 "VIET NAM","Viet Nam","VNM","East Asia","1990/91",2,1994,"Pulses",293,7.3,0,0,7.3,NA,NA,NA,NA,NA,NA,25,0,0,NA
@@ -2099,16 +2099,16 @@
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1991",3,1996,"Potato",80,2.4,4.8,0,7.2,NA,NA,NA,NA,NA,NA,30,60,NA,NA
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1991",3,1996,"Rice",16,0.32,0.032,0.032,0.384,NA,NA,NA,NA,NA,NA,20,2,2,NA
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1991",3,1996,"Tomato",5,0.25,0.35,0.1,0.7,NA,NA,NA,NA,NA,NA,50,70,20,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Coffee",2264,115.6904,26.9416,115.6904,258.3224,73,17,73,70,70,70,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Cotton",1286,24.6912,44.7528,40.8948,110.3388,32,58,53,60,60,60,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Maize",13151,290.6371,299.18525,299.18525,889.0076,34,35,35,65,65,65,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Orange",779,36.05212,18.02606,36.05212,90.1303,52,26,52,89,89,89,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Potato",164,11.9884,41.88888,23.9768,77.85408,85,297,170,86,86,86,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Pulses",4361,37.9407,68.29326,40.47008,146.70404,15,27,16,58,58,58,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Rice",4585,77.7616,119.07245,72.9015,269.73555,32,49,30,53,53,53,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Soybean",11384,48.9512,489.512,244.756,783.2192,5,50,25,86,86,86,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Sugar cane",4995,278.5212,237.5622,507.8916,1023.975,68,58,124,82,82,82,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1993",3,1996,"Wheat",1491,13.1208,64.4112,64.4112,141.9432,11,54,54,80,80,80,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Coffee",2264,115.6904,26.9416,115.6904,258.3224,73,23,73,70,70,70,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Cotton",1286,24.6912,44.7528,40.8948,110.3388,32,58,53,60,60,60,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Maize",13151,290.6371,299.18525,299.18525,889.0076,34,35,35,65,65,65,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Orange",779,36.05212,18.02606,36.05212,90.1303,52,26,52,89,89,89,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Potato",164,11.9884,41.88888,23.9768,77.85408,85,297,170,86,86,86,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Pulses",4361,37.9407,68.29326,40.47008,146.70404,15,27,16,58,58,58,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Rice",4585,77.7616,119.07245,72.9015,269.73555,32,49,30,53,53,53,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Soybean",11384,48.9512,489.512,244.756,783.2192,5,50,25,86,86,86,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Sugar cane",4995,278.5212,237.5622,507.8916,1023.975,68,58,124,82,82,82,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1995",3,1996,"Wheat",1491,13.1208,64.4112,64.4112,141.9432,11,54,54,80,80,80,NA,NA,NA,NA
 "Burkina Faso","Burkina Faso","BFA","Africa","1991",3,1996,"Cereals",2655,5.31,5.31,2.655,13.275,NA,NA,NA,NA,NA,NA,2,2,1,NA
 "Burkina Faso","Burkina Faso","BFA","Africa","1991",3,1996,"Cotton",161,4.991,4.186,2.576,11.753,NA,NA,NA,NA,NA,NA,31,26,16,NA
 "Burkina Faso","Burkina Faso","BFA","Africa","1991",3,1996,"Groundnut",219,0.0219,0.0438,0.0219,0.0876,NA,NA,NA,NA,NA,NA,0.1,0.2,0.1,NA
@@ -2195,12 +2195,12 @@
 "Costa Rica","Costa Rica","CRI","Latin America","1991",3,1996,"Sugar cane",40,3.2,1.6,1.6,6.4,100,50,50,80,80,80,NA,NA,NA,NA
 "Costa Rica","Costa Rica","CRI","Latin America","1991",3,1996,"Tobacco",1,0.2,0.4,0.4,1,200,400,400,100,100,100,NA,NA,NA,NA
 "Costa Rica","Costa Rica","CRI","Latin America","1991",3,1996,"Vegetables",9,1.8,1.8,1.8,5.4,200,200,200,100,100,100,NA,NA,NA,NA
-"C�te d'Ivoire","C�te D'Ivoire","CIV","Africa","1994",3,1996,"Banana",6.1,0.5612,0,1.7568,2.318,184,NA,576,50,NA,50,NA,NA,NA,NA
-"C�te d'Ivoire","C�te D'Ivoire","CIV","Africa","1994",3,1996,"Cotton",242.4,6.25392,5.23584,5.23584,16.7256,43,36,36,60,60,60,NA,NA,NA,NA
-"C�te d'Ivoire","C�te D'Ivoire","CIV","Africa","1994",3,1996,"Maize",1008,7.31808,3.99168,3.99168,15.30144,66,36,36,11,11,11,NA,NA,NA,NA
-"C�te d'Ivoire","C�te D'Ivoire","CIV","Africa","1994",3,1996,"Oil-palm",142.7,1.5304575,2.1426405,3.060915,6.734013,71.5,100.1,143,15,15,15,NA,NA,NA,NA
-"C�te d'Ivoire","C�te D'Ivoire","CIV","Africa","1994",3,1996,"Rice",624,12.3552,5.9904,5.9904,24.336,49.5,24,24,40,40,40,NA,NA,NA,NA
-"C�te d'Ivoire","C�te D'Ivoire","CIV","Africa","1994",3,1996,"Sugar cane",18.1,1.45705,0.87423,2.2806,4.61188,115,69,180,70,70,70,NA,NA,NA,NA
+"Côte d'Ivoire","Côte d’Ivoire","CIV","Africa","1994",3,1996,"Banana",6.1,0.5612,0,1.7568,2.318,184,NA,576,50,NA,50,NA,NA,NA,NA
+"Côte d'Ivoire","Côte d’Ivoire","CIV","Africa","1994",3,1996,"Cotton",242.4,6.25392,5.23584,5.23584,16.7256,43,36,36,60,60,60,NA,NA,NA,NA
+"Côte d'Ivoire","Côte d’Ivoire","CIV","Africa","1994",3,1996,"Maize",1008,7.31808,3.99168,3.99168,15.30144,66,36,36,11,11,11,NA,NA,NA,NA
+"Côte d'Ivoire","Côte d’Ivoire","CIV","Africa","1994",3,1996,"Oil-palm",142.7,1.5304575,2.1426405,3.060915,6.734013,71.5,100.1,143,15,15,15,NA,NA,NA,NA
+"Côte d'Ivoire","Côte d’Ivoire","CIV","Africa","1994",3,1996,"Rice",624,12.3552,5.9904,5.9904,24.336,49.5,24,24,40,40,40,NA,NA,NA,NA
+"Côte d'Ivoire","Côte d’Ivoire","CIV","Africa","1994",3,1996,"Sugar cane",18.1,1.45705,0.87423,2.2806,4.61188,115,69,180,70,70,70,NA,NA,NA,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1995",3,1996,"Barley",33,0.9999,3.3,3.3,7.5999,NA,NA,NA,NA,NA,NA,30.3,100,100,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1995",3,1996,"Maize",357.9,46.49121,16.06971,16.49919,79.06011,NA,NA,NA,NA,NA,NA,129.9,44.9,46.1,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1995",3,1996,"Oat",16.4,0.5002,0.70028,0.70028,1.90076,NA,NA,NA,NA,NA,NA,30.5,42.7,42.7,NA
@@ -2217,10 +2217,10 @@
 "Cyprus","Cyprus","CYP","West Asia","1994",3,1996,"Fruits & vegetables",3,0.84,0.72,0.36,1.92,NA,NA,NA,NA,NA,NA,280,240,120,NA
 "Cyprus","Cyprus","CYP","West Asia","1994",3,1996,"Grape",18,0.486,0.324,0,0.81,NA,NA,NA,NA,NA,NA,27,18,NA,NA
 "Cyprus","Cyprus","CYP","West Asia","1994",3,1996,"Potato",7.5,2.4,1.5,0.24,4.14,NA,NA,NA,NA,NA,NA,320,200,32,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1995",3,1996,"Potato",77,6.16,3.85,4.62,14.63,NA,NA,NA,NA,NA,NA,80,50,60,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1995",3,1996,"Rapeseed",190,24.7,9.5,11.4,45.6,NA,NA,NA,NA,NA,NA,130,50,60,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1995",3,1996,"Sugar beet",91,10.92,2.73,4.55,18.2,NA,NA,NA,NA,NA,NA,120,30,50,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1995",3,1996,"Wheat",811,64.88,32.44,40.55,137.87,NA,NA,NA,NA,NA,NA,80,40,50,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1995",3,1996,"Potato",77,6.16,3.85,4.62,14.63,NA,NA,NA,NA,NA,NA,80,50,60,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1995",3,1996,"Rapeseed",190,24.7,9.5,11.4,45.6,NA,NA,NA,NA,NA,NA,130,50,60,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1995",3,1996,"Sugar beet",91,10.92,2.73,4.55,18.2,NA,NA,NA,NA,NA,NA,120,30,50,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1995",3,1996,"Wheat",811,64.88,32.44,40.55,137.87,NA,NA,NA,NA,NA,NA,80,40,50,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1994",3,1996,"Barley",660,58.08,12.54,20.46,91.08,NA,NA,NA,NA,NA,NA,88,19,31,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1994",3,1996,"Fodder",165,25.08,2.145,6.435,33.66,NA,NA,NA,NA,NA,NA,152,13,39,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1994",3,1996,"Grassland fertilized",150,23.4,2.85,5.25,31.5,NA,NA,NA,NA,NA,NA,156,19,35,NA
@@ -2538,8 +2538,8 @@
 "Jordan","Jordan","JOR","West Asia","1994",3,1996,"Tomato",12.9,1.1997,2.99925,1.79955,5.9985,100,250,150,93,93,93,NA,NA,NA,NA
 "Jordan","Jordan","JOR","West Asia","1994",3,1996,"Water-melon",3.3,0.16368,0.25575,0.1023,0.52173,80,125,50,62,62,62,NA,NA,NA,NA
 "Jordan","Jordan","JOR","West Asia","1994",3,1996,"Wheat",69.4,0.49968,0.3123,0,0.81198,80,50,NA,9,9,NA,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","1993",3,1996,"Rice",538,2.84064,1.24278,0,4.08342,48,21,NA,11,11,NA,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","1993",3,1996,"Tobacco",7,0.0903,0.13545,0.0903,0.31605,30,45,30,43,43,43,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","1993",3,1996,"Rice",538,2.84064,1.24278,0,4.08342,48,21,NA,11,11,NA,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","1993",3,1996,"Tobacco",7,0.0903,0.13545,0.0903,0.31605,30,45,30,43,43,43,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1990",3,1996,"Flax",12,0.204,0.948,1.344,2.496,17,79,112,100,100,100,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1990",3,1996,"Fruits",3,0.384,0.324,0.435,1.143,128,108,145,100,100,100,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1990",3,1996,"Pasture & fodder",831,63.987,31.578,59.001,154.566,77,38,71,100,100,100,NA,NA,NA,NA
@@ -2738,19 +2738,19 @@
 "Panama","Panama","PAN","Latin America","1991",3,1996,"Tobacco",1,0.242,0.221,0.206,0.669,242,221,206,100,100,100,NA,NA,NA,NA
 "Panama","Panama","PAN","Latin America","1991",3,1996,"Tomato",2,0.146,0.108,0.54,0.794,73,54,270,100,100,100,NA,NA,NA,NA
 "Panama","Panama","PAN","Latin America","1991",3,1996,"Water-melon",1,0.085,0.087,0.044,0.216,85,87,44,100,100,100,NA,NA,NA,NA
-"Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Barley",133,1.7955,1.197,0.5985,3.591,NA,NA,NA,NA,NA,NA,13.5,9,4.5,NA
-"Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Bean",78,0.702,0.702,0,1.404,NA,NA,NA,NA,NA,NA,9,9,NA,NA
-"Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Cotton",103,9.27,4.635,3.2445,17.1495,NA,NA,NA,NA,NA,NA,90,45,31.5,NA
-"Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Maize",211,11.394,2.8485,5.697,19.9395,NA,NA,NA,NA,NA,NA,54,13.5,27,NA
 "Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Maize",518,0.2072,1.2432,0.4144,1.8648,4,24,8,10,10,10,NA,NA,NA,NA
-"Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Potato",219,9.855,9.855,9.855,29.565,NA,NA,NA,NA,NA,NA,45,45,45,NA
 "Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Rice",32,0.18144,0.30912,0.2016,0.69216,27,46,30,21,21,21,NA,NA,NA,NA
-"Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Rice",216,19.44,2.916,1.944,24.3,NA,NA,NA,NA,NA,NA,90,13.5,9,NA
 "Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Soybean",900,1.35,8.1,2.7,12.15,5,30,10,30,30,30,NA,NA,NA,NA
 "Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Sugar cane",47,0.2444,0.09776,0.3666,0.70876,40,16,60,13,13,13,NA,NA,NA,NA
 "Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Vegetables",12,0.4032,0.378,0.46872,1.24992,80,75,93,42,42,42,NA,NA,NA,NA
 "Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Wheat",241,2.14731,3.65838,2.3859,8.19159,27,46,30,33,33,33,NA,NA,NA,NA
-"Paraguay","Paraguay","PRY","Latin America","1990",3,1996,"Wheat",120,3.24,1.62,1.08,5.94,NA,NA,NA,NA,NA,NA,27,13.5,9,NA
+"Peru","Peru","PER","Latin America","1990",3,1996,"Barley",133,1.7955,1.197,0.5985,3.591,NA,NA,NA,NA,NA,NA,13.5,9,4.5,NA
+"Peru","Peru","PER","Latin America","1990",3,1996,"Bean",78,0.702,0.702,0,1.404,NA,NA,NA,NA,NA,NA,9,9,NA,NA
+"Peru","Peru","PER","Latin America","1990",3,1996,"Cotton",103,9.27,4.635,3.2445,17.1495,NA,NA,NA,NA,NA,NA,90,45,31.5,NA
+"Peru","Peru","PER","Latin America","1990",3,1996,"Maize",211,11.394,2.8485,5.697,19.9395,NA,NA,NA,NA,NA,NA,54,13.5,27,NA
+"Peru","Peru","PER","Latin America","1990",3,1996,"Potato",219,9.855,9.855,9.855,29.565,NA,NA,NA,NA,NA,NA,45,45,45,NA
+"Peru","Peru","PER","Latin America","1990",3,1996,"Rice",216,19.44,2.916,1.944,24.3,NA,NA,NA,NA,NA,NA,90,13.5,9,NA
+"Peru","Peru","PER","Latin America","1990",3,1996,"Wheat",120,3.24,1.62,1.08,5.94,NA,NA,NA,NA,NA,NA,27,13.5,9,NA
 "Philippines","Philippines","PHL","East Asia","1990",3,1996,"Maize",3589,135.01818,47.3748,21.31866,203.71164,57,20,9,66,66,66,NA,NA,NA,NA
 "Philippines","Philippines","PHL","East Asia","1990",3,1996,"Rice",3319,164.48964,55.7592,27.8796,248.12844,59,20,10,84,84,84,NA,NA,NA,NA
 "Poland","Poland","POL","Western and Central Europe","1993",3,1996,"Barley",1167,54.699624,17.17824,23.623581,95.501445,83.7,46,65.3,56,32,31,NA,NA,NA,NA
@@ -2931,22 +2931,22 @@
 "Togo","Togo","TGO","Africa","1990",3,1996,"Rice",19,0.11856,0.05434,0.05434,0.22724,48,22,22,13,13,13,NA,NA,NA,NA
 "Togo","Togo","TGO","Africa","1990",3,1996,"Sorghum",184,0.6624,0.2484,0.2208,1.1316,24,9,8,15,15,15,NA,NA,NA,NA
 "Togo","Togo","TGO","Africa","1990",3,1996,"Sugar cane",1,0.308,0.174,0.174,0.656,308,174,174,100,100,100,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Barley",3485,90.00361,64.21461,0.25789,154.47611,34.9,24.9,0.1,74,74,74,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Chick pea",820,42.57522,8.70102,0.06642,51.34266,64.1,13.1,0.1,81,81,81,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Cotton",568,84.4048,32.944,5.964,123.3128,148.6,58,10.5,100,100,100,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Fruits",3144,93.766656,39.035904,23.944704,156.747264,46.6,19.4,11.9,64,64,64,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Lentil",713,12.775534,13.084976,0,25.86051,28.9,29.6,NA,62,62,62,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Maize",550,41.2368,10.6172,1.6929,53.5469,85.2,50.8,8.1,88,38,38,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Native Wheat",3282,115.78896,81.052272,0.551376,197.392608,42,29.4,0.2,84,84,84,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Others",1407,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Pasture & Fodder",577,7.035938,7.190574,6.378735,20.605247,18.2,18.6,16.5,67,67,67,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Potato",192,34.64064,16.444992,2.160384,53.246016,186,88.3,11.6,97,97,97,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Rice",45,9.5175,4.4415,0.2025,14.1615,211.5,98.7,4.5,100,100,100,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Sugar beet",423,77.409,56.7666,8.2062,142.3818,183,134.2,19.4,100,100,100,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Sunflower",597,74.734848,40.863456,6.132384,121.730688,130.4,71.3,10.7,96,96,96,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Tobacco leaves",340,4.913,0,0.1734,5.0864,17,NA,0.6,85,85,85,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Vegetables",654,66.59682,32.46456,9.17235,108.23373,119.8,58.4,16.5,85,85,85,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1993",3,1996,"Wheat",6518,404.168144,230.86756,1.199312,636.235016,67.4,38.5,0.2,92,92,92,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Barley",3485,90.00361,64.21461,0.25789,154.47611,34.9,24.9,0.1,74,74,74,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Chick pea",820,42.57522,8.70102,0.06642,51.34266,64.1,13.1,0.1,81,81,81,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Cotton",568,84.4048,32.944,5.964,123.3128,148.6,58,10.5,100,100,100,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Fruits",3144,93.766656,39.035904,23.944704,156.747264,46.6,19.4,11.9,64,64,64,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Lentil",713,12.775534,13.084976,0,25.86051,28.9,29.6,NA,62,62,62,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Maize",550,41.2368,10.6172,1.6929,53.5469,85.2,50.8,8.1,88,38,38,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Native Wheat",3282,115.78896,81.052272,0.551376,197.392608,42,29.4,0.2,84,84,84,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Others",1407,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Pasture & Fodder",577,7.035938,7.190574,6.378735,20.605247,18.2,18.6,16.5,67,67,67,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Potato",192,34.64064,16.444992,2.160384,53.246016,186,88.3,11.6,97,97,97,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Rice",45,9.5175,4.4415,0.2025,14.1615,211.5,98.7,4.5,100,100,100,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Sugar beet",423,77.409,56.7666,8.2062,142.3818,183,134.2,19.4,100,100,100,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Sunflower",597,74.734848,40.863456,6.132384,121.730688,130.4,71.3,10.7,96,96,96,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Tobacco leaves",340,4.913,0,0.1734,5.0864,17,NA,0.6,85,85,85,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Vegetables",654,66.59682,32.46456,9.17235,108.23373,119.8,58.4,16.5,85,85,85,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1993",3,1996,"Wheat",6518,404.168144,230.86756,1.199312,636.235016,67.4,38.5,0.2,92,92,92,NA,NA,NA,NA
 "Turkmenistan","Turkmenistan","TKM","Eastern Europe and Central Asia","1990",3,1996,"Cotton",623,95.6928,46.8496,17.9424,160.4848,192,94,36,80,80,80,NA,NA,NA,NA
 "United Arab Emirates","United Arab Emirates","ARE","West Asia","1990",3,1996,"Fruits",3,0.6,0.6,0.3,1.5,200,200,100,100,100,100,NA,NA,NA,NA
 "United Arab Emirates","United Arab Emirates","ARE","West Asia","1990",3,1996,"Others",8,2,1.76,0.8,4.56,250,220,100,100,100,100,NA,NA,NA,NA
@@ -3045,23 +3045,23 @@
 "Uruguay","Uruguay","URY","Latin America","1990",3,1996,"Sugar cane",10,2.03,0.34,1.356,3.726,203,34,135.6,100,100,100,NA,NA,NA,NA
 "Uruguay","Uruguay","URY","Latin America","1990",3,1996,"Vegetables",24,1.356,0.9792,0.3264,2.6616,56.5,40.8,13.6,100,100,100,NA,NA,NA,NA
 "Uruguay","Uruguay","URY","Latin America","1990",3,1996,"Wheat",225,10.708425,7.57575,0.12285,18.407025,52.3,37,0.6,91,91,91,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Bean",20,0.378,0.896,0.126,1.4,54,128,18,35,35,35,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Caraota",23,0.4347,1.0304,0.1449,1.61,54,128,18,35,35,35,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Cocoa",65,1.794,0.962,0.364,3.12,138,74,28,20,20,20,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Coffee",220,8.888,3.652,3.256,15.796,202,83,74,20,20,20,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Cotton",40,2.968,1.764,1.26,5.992,106,63,45,70,70,70,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Maize",515,42.8274,22.60335,15.46545,80.8962,108,57,39,77,77,77,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Oil-palm",22,0.7106,0.935,0.8041,2.4497,38,50,43,85,85,85,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Orange",30,2.73,1.56,3.9,8.19,140,80,200,65,65,65,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Pasture",12000,37.536,37.536,37.536,112.608,184,184,184,1.7,1.7,1.7,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Plantain and banana",80,3.108,0.588,2.268,5.964,111,21,81,35,35,35,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Rice",177,26.904,10.089,6.903,43.896,152,57,39,100,100,100,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Sesame",28,1.008,1.848,1.344,4.2,48,88,64,75,75,75,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Sorghum",217,15.13575,7.161,5.208,27.50475,93,44,32,75,75,75,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Sugar cane",120,15.75,10.8,12.6,39.15,175,120,140,75,75,75,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Sunflower",17,1.19,1.19,1.19,3.57,70,70,70,100,100,100,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Tobacco",15,2.07,0.54,0.765,3.375,138,36,51,100,100,100,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1995",3,1996,"Tomato",15,2.295,0.78,0.6,3.675,153,52,40,100,100,100,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Bean",20,0.378,0.896,0.126,1.4,54,128,18,35,35,35,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Caraota",23,0.4347,1.0304,0.1449,1.61,54,128,18,35,35,35,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Cocoa",65,1.794,0.962,0.364,3.12,138,74,28,20,20,20,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Coffee",220,8.888,3.652,3.256,15.796,202,83,74,20,20,20,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Cotton",40,2.968,1.764,1.26,5.992,106,63,45,70,70,70,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Maize",515,42.8274,22.60335,15.46545,80.8962,108,57,39,77,77,77,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Oil-palm",22,0.7106,0.935,0.8041,2.4497,38,50,43,85,85,85,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Orange",30,2.73,1.56,3.9,8.19,140,80,200,65,65,65,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Pasture",12000,37.536,37.536,37.536,112.608,184,184,184,1.7,1.7,1.7,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Plantain and banana",80,3.108,0.588,2.268,5.964,111,21,81,35,35,35,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Rice",177,26.904,10.089,6.903,43.896,152,57,39,100,100,100,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Sesame",28,1.008,1.848,1.344,4.2,48,88,64,75,75,75,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Sorghum",217,15.13575,7.161,5.208,27.50475,93,44,32,75,75,75,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Sugar cane",120,15.75,10.8,12.6,39.15,175,120,140,75,75,75,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Sunflower",17,1.19,1.19,1.19,3.57,70,70,70,100,100,100,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Tobacco",15,2.07,0.54,0.765,3.375,138,36,51,100,100,100,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1995",3,1996,"Tomato",15,2.295,0.78,0.6,3.675,153,52,40,100,100,100,NA,NA,NA,NA
 "Viet Nam","Viet Nam","VNM","East Asia","1990",3,1996,"Maize",432,13.824,0,0,13.824,NA,NA,NA,NA,NA,NA,32,NA,NA,NA
 "Viet Nam","Viet Nam","VNM","East Asia","1990",3,1996,"Others",1826,1.826,0,0,1.826,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
 "Viet Nam","Viet Nam","VNM","East Asia","1990",3,1996,"Pulses",293,7.325,0,0,7.325,NA,NA,NA,NA,NA,NA,25,NA,NA,NA
@@ -3281,12 +3281,12 @@
 "Costa Rica","Costa Rica","CRI","Latin America","1991",4,1999,"Sugarcane",40,3.2,1.6,1.6,6.4,100,50,50,80,80,80,NA,NA,NA,NA
 "Costa Rica","Costa Rica","CRI","Latin America","1991",4,1999,"Tobacco",1,0.2,0.4,0.4,1,200,400,400,100,100,100,NA,NA,NA,NA
 "Costa Rica","Costa Rica","CRI","Latin America","1991",4,1999,"Vegetables",9,1.8,1.8,1.8,5.4,200,200,200,100,100,100,NA,NA,NA,NA
-"Cote d Ivoire","C�te D'Ivoire","CIV","Africa","1994",4,1999,"Banana",6.1,0.6,0,1.8,2.3,184,NA,576,50,NA,50,NA,NA,NA,NA
-"Cote d Ivoire","C�te D'Ivoire","CIV","Africa","1994",4,1999,"Cotton",242.4,6.3,5.2,5.2,16.7,43,36,36,60,60,60,NA,NA,NA,NA
-"Cote d Ivoire","C�te D'Ivoire","CIV","Africa","1994",4,1999,"Maize",1008,7.3,4,4,15.3,66,36,36,11,11,11,NA,NA,NA,NA
-"Cote d Ivoire","C�te D'Ivoire","CIV","Africa","1994",4,1999,"Oil palm",142.7,1.5,2.1,3.1,6.7,71.5,100.1,143,15,15,15,NA,NA,NA,NA
-"Cote d Ivoire","C�te D'Ivoire","CIV","Africa","1994",4,1999,"Rice",624,12.4,6,6,24.3,49.5,24,24,40,40,40,NA,NA,NA,NA
-"Cote d Ivoire","C�te D'Ivoire","CIV","Africa","1994",4,1999,"Sugar cane",18.1,1.5,0.9,2.3,4.6,115,69,180,70,70,70,NA,NA,NA,NA
+"Cote d Ivoire","Côte d’Ivoire","CIV","Africa","1994",4,1999,"Banana",6.1,0.6,0,1.8,2.3,184,NA,576,50,NA,50,NA,NA,NA,NA
+"Cote d Ivoire","Côte d’Ivoire","CIV","Africa","1994",4,1999,"Cotton",242.4,6.3,5.2,5.2,16.7,43,36,36,60,60,60,NA,NA,NA,NA
+"Cote d Ivoire","Côte d’Ivoire","CIV","Africa","1994",4,1999,"Maize",1008,7.3,4,4,15.3,66,36,36,11,11,11,NA,NA,NA,NA
+"Cote d Ivoire","Côte d’Ivoire","CIV","Africa","1994",4,1999,"Oil palm",142.7,1.5,2.1,3.1,6.7,71.5,100.1,143,15,15,15,NA,NA,NA,NA
+"Cote d Ivoire","Côte d’Ivoire","CIV","Africa","1994",4,1999,"Rice",624,12.4,6,6,24.3,49.5,24,24,40,40,40,NA,NA,NA,NA
+"Cote d Ivoire","Côte d’Ivoire","CIV","Africa","1994",4,1999,"Sugar cane",18.1,1.5,0.9,2.3,4.6,115,69,180,70,70,70,NA,NA,NA,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1994",4,1999,"Barley",33,1,3.3,3.3,7.6,NA,NA,NA,NA,NA,NA,30.3,100,100,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1994",4,1999,"Maize",357.9,46.5,16.1,16.5,79.1,NA,NA,NA,NA,NA,NA,129.9,44.9,46.1,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1994",4,1999,"Oat",16.4,0.5,0.7,0.7,1.9,NA,NA,NA,NA,NA,NA,30.5,42.7,42.7,NA
@@ -3303,11 +3303,11 @@
 "Cyprus","Cyprus","CYP","West Asia","1994",4,1999,"Fruits/Vegetables",3,0.8,0.7,0.4,1.9,NA,NA,NA,NA,NA,NA,280,240,120,NA
 "Cyprus","Cyprus","CYP","West Asia","1994",4,1999,"Grape",18,0.5,0.3,0,0.8,NA,NA,NA,NA,NA,NA,27,18,0,NA
 "Cyprus","Cyprus","CYP","West Asia","1994",4,1999,"Potato",7.5,2.4,1.5,0.2,4.1,NA,NA,NA,NA,NA,NA,320,200,32,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1996",4,1999,"Barley/Summer",603,36.2,11.5,7.2,54.9,NA,NA,NA,NA,NA,NA,60,19,12,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1996",4,1999,"Potato",87,7.8,2.8,3.1,13.7,NA,NA,NA,NA,NA,NA,90,32,36,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1996",4,1999,"Rapeseed/Winter",229,32.1,7.6,6,45.6,NA,NA,NA,NA,NA,NA,140,33,26,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1996",4,1999,"Sugar beet",104,10.9,4.2,4.4,19.4,NA,NA,NA,NA,NA,NA,105,40,42,NA
-"Czech Republic","Czech Republic","CZE","Western and Central Europe","1996",4,1999,"Wheat/Winter",801,96.1,20.8,19.2,136.2,NA,NA,NA,NA,NA,NA,120,26,24,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1996",4,1999,"Barley/Summer",603,36.2,11.5,7.2,54.9,NA,NA,NA,NA,NA,NA,60,19,12,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1996",4,1999,"Potato",87,7.8,2.8,3.1,13.7,NA,NA,NA,NA,NA,NA,90,32,36,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1996",4,1999,"Rapeseed/Winter",229,32.1,7.6,6,45.6,NA,NA,NA,NA,NA,NA,140,33,26,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1996",4,1999,"Sugar beet",104,10.9,4.2,4.4,19.4,NA,NA,NA,NA,NA,NA,105,40,42,NA
+"Czech Republic","Czechia","CZE","Western and Central Europe","1996",4,1999,"Wheat/Winter",801,96.1,20.8,19.2,136.2,NA,NA,NA,NA,NA,NA,120,26,24,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1996",4,1999,"Barley",747,59.8,14.9,25.4,100.1,NA,NA,NA,NA,NA,NA,80,20,34,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1996",4,1999,"Fertilized forests",5,0.1,0.1,0.2,0.4,NA,NA,NA,NA,NA,NA,25,20,40,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1996",4,1999,"Fodder (legumes)",101,10.6,1.4,4.5,16.6,NA,NA,NA,NA,NA,NA,105,14,45,NA
@@ -3537,24 +3537,24 @@
 "Indonesia","Indonesia","IDN","East Asia","1993",4,1999,"Rice",11013,991.2,264.3,33,1288.5,100,30,30,90,80,10,NA,NA,NA,NA
 "Indonesia","Indonesia","IDN","East Asia","1993",4,1999,"Soybean",1470,8.8,2.9,1.5,13.2,20,20,20,30,10,5,NA,NA,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Barley",1757,77,50.1,3,130,NA,NA,NA,NA,NA,NA,43.8,28.5,1.7,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Cotton",185,19,10,2,31,90,NA,60,90,90,90,102.7,54.1,10.8,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Fruits",1193,32.2,20,0,52.2,200,37.3,NA,100,100,NA,NA,NA,NA,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Cotton",185,19,10,2,31,NA,NA,NA,90,90,90,102.7,54.1,10.8,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Fruits",1193,32.2,20,0,52.2,60,37.3,NA,100,100,NA,NA,NA,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Garlic",2,0.5,0.5,0,1,NA,NA,NA,NA,NA,NA,250,250,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Garlic",2,0.5,0.5,0,1,NA,NA,NA,NA,NA,NA,250,250,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Lentil",244,2,3,0,5,NA,NA,NA,NA,NA,NA,8.2,12.3,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Maize",78,21,7,1,29,NA,NA,NA,NA,NA,NA,269.2,89.7,12.8,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Millet",3,0.5,0.5,0,1,NA,NA,NA,NA,NA,NA,166.7,166.7,NA,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Mungbean",29,1,0.5,0,1.5,NA,NA,NA,NA,NA,NA,34.5,17.2,26.3,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Onion",40,3.2,4.9,2.2,10.3,30,135,NA,50,50,NA,NA,NA,NA,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Mungbean",29,1,0.5,0,1.5,NA,NA,NA,NA,NA,NA,34.5,17.2,NA,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Onion",40,3.2,4.9,2.2,10.3,90,135,60,50,50,NA,NA,NA,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Pasture/Fodder",739,11.1,4,0,15.1,NA,10.8,NA,NA,NA,NA,NA,NA,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Pea",579,3.2,5,0,8.2,NA,NA,NA,NA,NA,NA,5.5,8.6,NA,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Potato",150,42,25,2,69,60,NA,NA,45,45,NA,280,166.7,13.3,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Potato",150,42,25,2,69,NA,NA,NA,45,45,NA,280,166.7,13.3,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Rice",555,64,30,2,96,NA,NA,NA,NA,NA,NA,115.3,54.1,3.6,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Sesame",20,1,1,0,2,NA,NA,NA,NA,NA,NA,50,50,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Sorghum",24,1,1,0,2,NA,NA,NA,NA,NA,NA,41.7,41.7,NA,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Soybean",76,5,4,2,11,NA,NA,NA,NA,NA,NA,65.8,52.6,NA,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Sugar beet",150,19.5,9,0,28.5,180,60,NA,85,85,NA,NA,NA,NA,NA
-"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Sugar cane",25,5,4.5,0,9.5,130,180,NA,100,100,NA,NA,NA,NA,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Soybean",76,5,4,2,11,NA,NA,NA,NA,NA,NA,65.8,52.6,26.3,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Sugar beet",150,19.5,9,0,28.5,130,60,NA,85,85,NA,NA,NA,NA,NA
+"Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Sugar cane",25,5,4.5,0,9.5,200,180,NA,100,100,NA,NA,NA,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Sunflower",131,11,5,0,16,NA,NA,NA,NA,NA,NA,84,38.2,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Tea",32,4.9,0.6,0,5.5,NA,23,NA,NA,NA,NA,NA,NA,NA,NA
 "Iran","Iran (Islamic Republic of)","IRN","West Asia","1993",4,1999,"Wheat",6782,219.7,200.1,1.4,421.2,NA,NA,NA,NA,NA,NA,32.4,29.5,0.2,NA
@@ -3653,8 +3653,8 @@
 "Kenya","Kenya","KEN","Africa","1996",4,1999,"Tobacco",8.9,0.3,0.8,0.2,1.3,30,90,24,100,100,100,NA,NA,NA,NA
 "Kenya","Kenya","KEN","Africa","1996",4,1999,"Vegetables",82.7,0.6,1.2,0,1.9,28,52,0,28,28,0,NA,NA,NA,NA
 "Kenya","Kenya","KEN","Africa","1996",4,1999,"Wheat",156,2.7,11.7,0,14.4,17,75,0,100,100,0,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","1993",4,1999,"Rice",538,2.8,1.2,0,4.1,48,21,0,11,11,0,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","1993",4,1999,"Tobacco",7,0.1,0.1,0.1,0.3,30,45,30,43,43,43,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","1993",4,1999,"Rice",538,2.8,1.2,0,4.1,48,21,0,11,11,0,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","1993",4,1999,"Tobacco",7,0.1,0.1,0.1,0.3,30,45,30,43,43,43,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1990",4,1999,"Flax",12,0.2,0.9,1.3,2.5,17,79,112,100,100,100,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1990",4,1999,"Fruits",3,0.4,0.3,0.4,1.1,128,108,145,100,100,100,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1990",4,1999,"Pasture/Fodder",831,64,31.6,59,154.6,77,38,71,100,100,100,NA,NA,NA,NA
@@ -3777,15 +3777,15 @@
 "Mexico","Mexico","MEX","Latin America","1990",4,1999,"Vegetables/Others",153,36.1,15,4,55.1,243,101,27,97,97,97,NA,NA,NA,NA
 "Mexico","Mexico","MEX","Latin America","1990",4,1999,"Watermelon",14,1.6,0.8,0.6,3,120,61,42,95,95,95,NA,NA,NA,NA
 "Mexico","Mexico","MEX","Latin America","1990",4,1999,"Wheat",913,155.4,30.6,0,186,183,36,0,93,93,0,NA,NA,NA,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Barley",2330,5.6,3.5,3.9,13,8,5,30,30,30,NA,NA,NA,5.6,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Crop/Cash",180,19.8,16.2,9,45,110,90,100,100,100,NA,NA,NA,50,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Fruits",130,13,9.8,5.2,28,100,75,100,100,100,NA,NA,NA,40,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Maize",400,6.4,4.5,2.2,13.1,20,14,80,80,80,NA,NA,NA,7,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Others",400,22.4,18.4,3.4,44.2,56,46,100,100,100,NA,NA,NA,8.5,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Sugar beet",80,18.4,8,8,34.4,230,100,100,100,100,NA,NA,NA,100,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Sunflower",110,8.1,3.1,1.5,12.8,74,28,100,100,100,NA,NA,NA,14,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Vegetables",450,0,6.3,3.2,9.5,NA,20,70,NA,70,NA,NA,NA,10,NA
-"Morocco","Morocco","MAR","Africa","1995",4,1999,"Wheat",2450,39.2,27.4,13.7,80.4,20,14,80,80,80,NA,NA,NA,7,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Barley",2330,5.6,3.5,3.9,13,8,5,5.6,30,30,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Crop/Cash",180,19.8,16.2,9,45,110,90,50,100,100,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Fruits",130,13,9.8,5.2,28,100,75,40,100,100,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Maize",400,6.4,4.5,2.2,13.1,20,14,7,80,80,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Others",400,22.4,18.4,3.4,44.2,56,46,8.5,100,100,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Sugar beet",80,18.4,8,8,34.4,230,100,100,100,100,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Sunflower",110,8.1,3.1,1.5,12.8,74,28,14,100,100,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Vegetables",450,0,6.3,3.2,9.5,NA,20,10,NA,70,NA,NA,NA,NA,NA
+"Morocco","Morocco","MAR","Africa","1995",4,1999,"Wheat",2450,39.2,27.4,13.7,80.4,20,14,7,80,80,NA,NA,NA,NA,NA
 "Myanmar","Myanmar","MMR","East Asia","1994",4,1999,"Bean",700,0.2,0,0,0.2,NA,NA,NA,NA,NA,NA,0.3,0,0,NA
 "Myanmar","Myanmar","MMR","East Asia","1994",4,1999,"Cotton",165,0.4,0,0,0.4,NA,NA,NA,NA,NA,NA,2.2,0,0,NA
 "Myanmar","Myanmar","MMR","East Asia","1994",4,1999,"Maize",196,1,0.1,0,1.1,NA,NA,NA,NA,NA,NA,5,0.5,0,NA
@@ -4093,26 +4093,26 @@
 "Togo","Togo","TGO","Africa","1990",4,1999,"Rice",19,0.1,0.1,0.1,0.2,48,22,22,13,13,13,NA,NA,NA,NA
 "Togo","Togo","TGO","Africa","1990",4,1999,"Sorghum",184,0.7,0.2,0.2,1.1,24,9,8,15,15,15,NA,NA,NA,NA
 "Togo","Togo","TGO","Africa","1990",4,1999,"Sugarcane",1,0.3,0.2,0.2,0.7,308,174,174,100,100,100,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Barley",3525,101.5,60.3,0.5,162.3,37.4,22.2,77,77,77,NA,NA,NA,0.2,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Bean",170,12.2,4.4,0.2,16.8,83.6,30,86,86,86,NA,NA,NA,1.3,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Broadbean",26,0.2,0.4,0,0.6,10.7,19.5,78,78,78,NA,NA,NA,0.6,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Cereals/Others",327,5.5,2.8,0,8.3,27,13.7,62,62,62,NA,NA,NA,0.1,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Chickpea",745,7.8,6.3,1,15.1,12.9,10.4,81,81,81,NA,NA,NA,1.7,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Cotton",741,72.1,46.7,6.8,125.6,97.3,63,100,100,100,NA,NA,NA,9.2,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Fruits",3216,72.9,25.7,13.1,111.7,39.1,13.8,58,58,58,NA,NA,NA,7,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Lentil",640,5.6,5.6,0,11.2,13.1,13.1,0,67,67,NA,NA,NA,0,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Maize",515,45.8,32.1,1.7,79.5,102.2,71.6,87,87,87,NA,NA,NA,3.7,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Oilseeds/Others",348,8.3,4.4,0.9,13.6,27.5,14.5,87,87,87,NA,NA,NA,3,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Pasture/Fodder",582,5.7,5.3,0.3,11.3,16.6,15.3,59,59,59,NA,NA,NA,0.9,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Potato",200,26.4,9.9,1.8,38.2,151.9,57.1,87,87,87,NA,NA,NA,10.5,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Pulses/Others",11,1.2,0.7,0,1.9,192.8,114.9,57,57,57,NA,NA,NA,1.9,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Rice",50,7,3.2,0.1,10.3,140.1,63.5,100,100,100,NA,NA,NA,1.4,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Sugar beet",312,28,18.3,6.6,52.9,89.9,58.6,100,100,100,NA,NA,NA,21,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Sunflower",585,36.1,16.3,7.5,59.9,63.6,28.7,97,97,97,NA,NA,NA,13.3,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Tobacco",236,2.3,1.1,0.8,4.1,18.7,8.9,51,51,51,NA,NA,NA,6.3,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Vegetables",785,43.4,19.5,8.4,71.4,64.3,28.9,86,86,86,NA,NA,NA,12.5,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Wheat",6461,253.5,131.4,2.9,387.9,43.6,22.6,90,90,90,NA,NA,NA,0.5,NA
-"Turkey","Turkey","TUR","West Asia","1995",4,1999,"Wheat/Native",2939,143.6,93.7,0.5,237.8,57.5,37.5,85,85,85,NA,NA,NA,0.2,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Barley",3525,101.5,60.3,0.5,162.3,37.4,22.2,0.2,77,77,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Bean",170,12.2,4.4,0.2,16.8,83.6,30,1.3,86,86,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Broadbean",26,0.2,0.4,0,0.6,10.7,19.5,0.6,78,78,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Cereals/Others",327,5.5,2.8,0,8.3,27,13.7,0.1,62,62,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Chickpea",745,7.8,6.3,1,15.1,12.9,10.4,1.7,81,81,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Cotton",741,72.1,46.7,6.8,125.6,97.3,63,9.2,100,100,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Fruits",3216,72.9,25.7,13.1,111.7,39.1,13.8,7,58,58,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Lentil",640,5.6,5.6,0,11.2,13.1,13.1,0,67,67,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Maize",515,45.8,32.1,1.7,79.5,102.2,71.6,3.7,87,87,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Oilseeds/Others",348,8.3,4.4,0.9,13.6,27.5,14.5,3,87,87,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Pasture/Fodder",582,5.7,5.3,0.3,11.3,16.6,15.3,0.9,59,59,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Potato",200,26.4,9.9,1.8,38.2,151.9,57.1,10.5,87,87,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Pulses/Others",11,1.2,0.7,0,1.9,192.8,114.9,1.9,57,57,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Rice",50,7,3.2,0.1,10.3,140.1,63.5,1.4,100,100,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Sugar beet",312,28,18.3,6.6,52.9,89.9,58.6,21,100,100,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Sunflower",585,36.1,16.3,7.5,59.9,63.6,28.7,13.3,97,97,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Tobacco",236,2.3,1.1,0.8,4.1,18.7,8.9,6.3,51,51,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Vegetables",785,43.4,19.5,8.4,71.4,64.3,28.9,12.5,86,86,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Wheat",6461,253.5,131.4,2.9,387.9,43.6,22.6,0.5,90,90,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1995",4,1999,"Wheat/Native",2939,143.6,93.7,0.5,237.8,57.5,37.5,0.2,85,85,NA,NA,NA,NA,NA
 "Turkmenistan","Turkmenistan","TKM","Eastern Europe and Central Asia","1990",4,1999,"Cotton",623,95.7,46.8,17.9,160.5,192,94,36,80,80,80,NA,NA,NA,NA
 "United Arab Emirates","United Arab Emirates","ARE","West Asia","1990",4,1999,"Fruits",3,0.6,0.6,0.3,1.5,200,200,100,100,100,100,NA,NA,NA,NA
 "United Arab Emirates","United Arab Emirates","ARE","West Asia","1990",4,1999,"Others",8,2,1.8,0.8,4.6,250,220,100,100,100,100,NA,NA,NA,NA
@@ -4223,29 +4223,29 @@
 "Uruguay","Uruguay","URY","Latin America","1990",4,1999,"Sugar cane",10,2,0.3,1.4,3.7,203,34,135.6,100,100,100,NA,NA,NA,NA
 "Uruguay","Uruguay","URY","Latin America","1990",4,1999,"Vegetables",24,1.4,1,0.3,2.7,56.5,40.8,13.6,100,100,100,NA,NA,NA,NA
 "Uruguay","Uruguay","URY","Latin America","1990",4,1999,"Wheat",225,10.7,7.6,0.1,18.4,52.3,37,0.6,91,91,91,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Banana/Plantain",64.5,7.7,2.6,5.2,15.5,NA,NA,NA,NA,NA,NA,120,40,80,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Bean/Dry",41.7,1.5,1.7,1.5,4.6,NA,NA,NA,NA,NA,NA,35,40,35,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Cabbage",2,0.2,0.1,0.2,0.5,NA,NA,NA,NA,NA,NA,100,70,90,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Cassava",37.4,1.1,0.9,0.9,3,NA,NA,NA,NA,NA,NA,30,25,25,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Cocoa",64.5,4.5,3.2,2.9,10.6,NA,NA,NA,NA,NA,NA,70,50,45,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Coffee",213.3,19.2,10,14.9,44.1,NA,NA,NA,NA,NA,NA,90,46.9,70,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Cotton/Seed",32.4,3.9,1.9,1.3,7.1,NA,NA,NA,NA,NA,NA,120,60,40,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Garlic",1,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,120,90,100,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Groundnut",2,0.3,0.4,0.2,0.8,NA,NA,NA,NA,NA,NA,130,180,90,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Maize",413.3,49.6,20,10,79.6,NA,NA,NA,NA,NA,NA,120,48.4,24.2,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Onion/Dry",4.7,0.6,0.4,0.5,1.5,NA,NA,NA,NA,NA,NA,120,90,100,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Orange",39.2,3.1,1.6,3.1,7.8,NA,NA,NA,NA,NA,NA,80,40,80,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Pea/Dry",3,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,35,40,35,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Pepper/Green",5.1,0.5,0.4,0.5,1.3,NA,NA,NA,NA,NA,NA,100,70,90,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Potato",16,2.1,1.3,1.2,4.6,NA,NA,NA,NA,NA,NA,130,80,75,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Rice",173.3,22.5,9,7,38.5,NA,NA,NA,NA,NA,NA,130,51.9,40.4,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Sesame",37.1,1.5,2.2,1.1,4.8,NA,NA,NA,NA,NA,NA,40,60,30,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Sorghum",174.5,17.5,5,4,26.5,NA,NA,NA,NA,NA,NA,100,28.7,22.9,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Soybean",1,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,60,120,90,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Sugar cane",105.7,12.7,4,3,19.7,NA,NA,NA,NA,NA,NA,120,37.8,28.4,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Sunflower",10,0.8,0.5,0.4,1.7,NA,NA,NA,NA,NA,NA,75,50,40,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Tomato",13.8,1.7,1.2,1.7,4.6,NA,NA,NA,NA,NA,NA,120,90,120,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1996",4,1999,"Yam",7,0.1,0.2,0.1,0.5,NA,NA,NA,NA,NA,NA,20,25,20,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Banana/Plantain",64.5,7.7,2.6,5.2,15.5,NA,NA,NA,NA,NA,NA,120,40,80,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Bean/Dry",41.7,1.5,1.7,1.5,4.6,NA,NA,NA,NA,NA,NA,35,40,35,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Cabbage",2,0.2,0.1,0.2,0.5,NA,NA,NA,NA,NA,NA,100,70,90,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Cassava",37.4,1.1,0.9,0.9,3,NA,NA,NA,NA,NA,NA,30,25,25,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Cocoa",64.5,4.5,3.2,2.9,10.6,NA,NA,NA,NA,NA,NA,70,50,45,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Coffee",213.3,19.2,10,14.9,44.1,NA,NA,NA,NA,NA,NA,90,46.9,70,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Cotton/Seed",32.4,3.9,1.9,1.3,7.1,NA,NA,NA,NA,NA,NA,120,60,40,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Garlic",1,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,120,90,100,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Groundnut",2,0.3,0.4,0.2,0.8,NA,NA,NA,NA,NA,NA,130,180,90,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Maize",413.3,49.6,20,10,79.6,NA,NA,NA,NA,NA,NA,120,48.4,24.2,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Onion/Dry",4.7,0.6,0.4,0.5,1.5,NA,NA,NA,NA,NA,NA,120,90,100,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Orange",39.2,3.1,1.6,3.1,7.8,NA,NA,NA,NA,NA,NA,80,40,80,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Pea/Dry",3,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,35,40,35,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Pepper/Green",5.1,0.5,0.4,0.5,1.3,NA,NA,NA,NA,NA,NA,100,70,90,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Potato",16,2.1,1.3,1.2,4.6,NA,NA,NA,NA,NA,NA,130,80,75,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Rice",173.3,22.5,9,7,38.5,NA,NA,NA,NA,NA,NA,130,51.9,40.4,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Sesame",37.1,1.5,2.2,1.1,4.8,NA,NA,NA,NA,NA,NA,40,60,30,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Sorghum",174.5,17.5,5,4,26.5,NA,NA,NA,NA,NA,NA,100,28.7,22.9,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Soybean",1,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,60,120,90,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Sugar cane",105.7,12.7,4,3,19.7,NA,NA,NA,NA,NA,NA,120,37.8,28.4,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Sunflower",10,0.8,0.5,0.4,1.7,NA,NA,NA,NA,NA,NA,75,50,40,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Tomato",13.8,1.7,1.2,1.7,4.6,NA,NA,NA,NA,NA,NA,120,90,120,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1996",4,1999,"Yam",7,0.1,0.2,0.1,0.5,NA,NA,NA,NA,NA,NA,20,25,20,NA
 "Viet Nam","Viet Nam","VNM","East Asia","1990",4,1999,"Maize",432,13.8,0,0,13.8,NA,NA,NA,NA,NA,NA,32,0,0,NA
 "Viet Nam","Viet Nam","VNM","East Asia","1990",4,1999,"Others",1826,1.8,0,0,1.8,NA,NA,NA,NA,NA,NA,1,0,0,NA
 "Viet Nam","Viet Nam","VNM","East Asia","1990",4,1999,"Pulses",293,7.3,0,0,7.3,NA,NA,NA,NA,NA,NA,25,0,0,NA
@@ -4303,7 +4303,7 @@
 "Argentina","Argentina","ARG","Latin America","1998",5,2002,"Sugar cane",305.7,13.5,1.5,24.5,39.5,80,5,80,55,55,55,NA,NA,NA,NA
 "Argentina","Argentina","ARG","Latin America","1998",5,2002,"Sunflower",3331.4,41.6,16.7,6.7,65,25,5,2,50,50,50,NA,NA,NA,NA
 "Argentina","Argentina","ARG","Latin America","1998",5,2002,"Tobacco",49,0.5,0.5,0,1,20,10,NA,50,50,50,NA,NA,NA,NA
-"Argentina","Argentina","ARG","Latin America","1998",5,2002,"Vegetables",320,19.2,11.2,14.4,44.8,60,35,45,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Argentina","ARG","Latin America","1998",5,2002,"Vegetables",320,19.2,11.2,14.4,44.8,NA,NA,NA,NA,NA,NA,60,35,45,NA
 "Argentina","Argentina","ARG","Latin America","1998",5,2002,"Wheat",5471.9,191.5,136.8,0,328.3,50,25,NA,70,70,70,NA,NA,NA,NA
 "Australia","Australia","AUS","Oceania","2000",5,2002,"Cereals",16357,701.7,490.7,63.8,1256.2,NA,NA,NA,NA,NA,NA,42.9,30,3.9,NA
 "Australia","Australia","AUS","Oceania","2000",5,2002,"Cotton",462,56,9.1,5.7,70.8,NA,NA,NA,NA,NA,NA,121.2,19.8,12.4,NA
@@ -4376,7 +4376,7 @@
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Cotton",21,0.1,0.2,0,0.3,20,30,NA,20,20,20,NA,NA,NA,NA
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Maize",285,0.6,0.4,0,1,40,30,NA,5,5,5,NA,NA,NA,NA
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Oat",6,0.1,0,0,0.1,30,NA,NA,40,40,40,NA,NA,NA,NA
-"Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Peach",6,0.2,0.2,0.1,0.5,30,40,10,NA,NA,NA,NA,NA,NA,NA
+"Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Peach",6,0.2,0.2,0.1,0.5,NA,NA,NA,NA,NA,NA,30,40,10,NA
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Potato",130,3.9,3.9,0,7.8,60,60,NA,50,50,50,NA,NA,NA,NA
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Rice, paddy",194,0.8,0.4,0.8,2,40,20,40,10,10,10,NA,NA,NA,NA
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Sorghum",35,0.1,0,0,0.1,30,10,NA,10,10,10,NA,NA,NA,NA
@@ -4386,7 +4386,7 @@
 "Bolivia","Bolivia (Plurinational State of)","BOL","Latin America","1999",5,2002,"Wheat",124,0.4,0.2,0.4,1,30,40,60,10,10,10,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Banana",620,18.6,14.9,44.6,78.1,50,40,120,60,60,60,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Barley",75,1.5,1.1,1.8,4.4,40,30,40,50,50,50,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1999",5,2002,"Cassava",1969,39.4,78.8,59.1,177.3,20,40,30,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1999",5,2002,"Cassava",1969,39.4,78.8,59.1,177.3,NA,NA,NA,NA,NA,NA,20,40,30,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Cocoa",750,24,30,18,72,40,50,30,80,80,80,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Coffee",2075,149.4,83,62.3,294.7,80,50,50,90,90,90,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Cotton",1150,36.8,46,46,128.8,40,50,50,80,80,80,NA,NA,NA,NA
@@ -4394,7 +4394,7 @@
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Maize",14191,596,298,496,1390,60,30,50,70,70,70,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Orange",950,48.5,45.6,45.6,139.7,60,60,60,8,8,8,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Potato",128,9.2,15.4,17.3,41.9,80,150,150,90,90,90,NA,NA,NA,NA
-"Brazil","Brazil","BRA","Latin America","1999",5,2002,"Pulses",5300,185.5,318,159,662.5,35,60,30,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Brazil","BRA","Latin America","1999",5,2002,"Pulses",5300,185.5,318,159,662.5,NA,NA,NA,NA,NA,NA,35,60,30,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Rice, paddy",4503,126.1,157.6,108.1,391.8,40,50,30,70,70,70,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Sorghum",158,6.2,2.8,3.8,12.8,60,30,40,65,65,65,NA,NA,NA,NA
 "Brazil","Brazil","BRA","Latin America","1999",5,2002,"Soybean",12200,109.8,549,695.4,1354.2,10,50,60,90,90,90,NA,NA,NA,NA
@@ -4428,7 +4428,7 @@
 "Canada","Canada","CAN","North America","2000",5,2002,"Wheat",11162,502.3,217.7,26.8,746.8,NA,NA,NA,NA,NA,NA,50,26,6,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Barley",35,3.2,2.5,0.9,6.6,100,80,30,90,90,90,NA,NA,NA,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Grape",130,9.4,5.3,5.2,19.9,80,45,40,90,90,90,NA,NA,NA,NA
-"Chile","Chile","CHL","Latin America","1997",5,2002,"Grassland",900,40.5,27,0,67.5,45,30,NA,NA,NA,NA,NA,NA,NA,NA
+"Chile","Chile","CHL","Latin America","1997",5,2002,"Grassland",900,40.5,27,0,67.5,NA,NA,NA,NA,NA,NA,45,30,NA,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Maize",120,24,12,3.2,39.2,200,100,30,100,100,100,NA,NA,NA,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Oat",115,11.5,9.2,0,20.7,100,80,NA,100,100,100,NA,NA,NA,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Potato",70,6.7,7.7,4.2,18.6,100,110,60,95,95,95,NA,NA,NA,NA
@@ -4440,7 +4440,7 @@
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Sunflower",3.5,0.3,0.2,0.1,0.6,100,80,40,90,90,90,NA,NA,NA,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Tobacco",10,0.9,0.3,0.3,1.5,100,40,30,90,90,90,NA,NA,NA,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Tomato",22,1.9,2,0.9,4.8,90,100,40,95,95,95,NA,NA,NA,NA
-"Chile","Chile","CHL","Latin America","1997",5,2002,"Vegetables",160,16,12.8,5.6,34.4,100,80,35,NA,NA,NA,NA,NA,NA,NA
+"Chile","Chile","CHL","Latin America","1997",5,2002,"Vegetables",160,16,12.8,5.6,34.4,NA,NA,NA,NA,NA,NA,100,80,35,NA
 "Chile","Chile","CHL","Latin America","1997",5,2002,"Wheat",420,42,33.6,8.4,84,100,80,20,100,100,100,NA,NA,NA,NA
 "China","China","CHN","East Asia","1997",5,2002,"Apple",2690.2,376.628,169.4826,72.6354,618.746,140,70,45,100,100,100,NA,NA,NA,NA
 "China","China","CHN","East Asia","1997",5,2002,"Banana",150.8,33.176,11.5362,16.588,61.3002,220,85,110,100,100,100,NA,NA,NA,NA
@@ -4458,7 +4458,7 @@
 "China","China","CHN","East Asia","1997",5,2002,"Maize",21152.3,2749.799,423.046,296.1322,3468.9772,130,40,40,100,100,100,NA,NA,NA,NA
 "China","China","CHN","East Asia","1997",5,2002,"Millet",1672,97.812,25.08,0,122.892,65,25,0,90,90,90,NA,NA,NA,NA
 "China","China","CHN","East Asia","1997",5,2002,"Oat",400,26,5.04,0.8,31.84,65,18,20,100,100,100,NA,NA,NA,NA
-"China","China","CHN","East Asia","1997",5,2002,"Others",11171.5,1340.58,206.67275,27.92875,1575.1815,120,18.5,2.5,NA,NA,NA,NA,NA,NA,NA
+"China","China","CHN","East Asia","1997",5,2002,"Others",11171.5,1340.58,206.67275,27.92875,1575.1815,NA,NA,NA,NA,NA,NA,120,18.5,2.5,NA
 "China","China","CHN","East Asia","1997",5,2002,"Pear",750.1,90.012,56.2575,31.691725,177.961225,120,75,65,100,100,100,NA,NA,NA,NA
 "China","China","CHN","East Asia","1997",5,2002,"Potato",3207.6,400.95,167.5971,96.228,664.7751,125,55,75,100,100,100,NA,NA,NA,NA
 "China","China","CHN","East Asia","1997",5,2002,"Potato, sweet",6511,813.875,260.44,390.66,1464.975,125,50,75,100,100,100,NA,NA,NA,NA
@@ -4507,7 +4507,7 @@
 "Colombia","Colombia","COL","Latin America","1997",5,2002,"Sugar cane",50,3.5,6.8,4.5,14.8,100,150,100,70,70,70,NA,NA,NA,NA
 "Colombia","Colombia","COL","Latin America","1997",5,2002,"Tobacco",10,0.6,0.1,0.2,0.9,80,10,30,70,70,70,NA,NA,NA,NA
 "Colombia","Colombia","COL","Latin America","1997",5,2002,"Tomato",12,1,0.7,0.3,2,90,80,40,90,90,90,NA,NA,NA,NA
-"Colombia","Colombia","COL","Latin America","1997",5,2002,"Vegetables",82,8.2,6.6,3.3,18.1,100,80,40,NA,NA,NA,NA,NA,NA,NA
+"Colombia","Colombia","COL","Latin America","1997",5,2002,"Vegetables",82,8.2,6.6,3.3,18.1,NA,NA,NA,NA,NA,NA,100,80,40,NA
 "Colombia","Colombia","COL","Latin America","1997",5,2002,"Wheat",23.6,1.9,1.9,0.3,4.1,100,80,20,80,80,80,NA,NA,NA,NA
 "Costa Rica","Costa Rica","CRI","Latin America","1997",5,2002,"Banana",66.2,29.8,6.6,29.8,66.2,450,100,450,100,100,100,NA,NA,NA,NA
 "Costa Rica","Costa Rica","CRI","Latin America","1997",5,2002,"Citrus fruits",23.5,1.7,1.4,1.9,5,120,60,80,60,60,60,NA,NA,NA,NA
@@ -4555,37 +4555,37 @@
 "Croatia","Croatia","HRV","Western and Central Europe","1999",5,2002,"Tomato",6.4,0.8,0.3,0.4,1.5,NA,NA,NA,NA,NA,NA,125,46.875,62.5,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1999",5,2002,"Watermelon",2.9,0.5,0.2,0.3,1,NA,NA,NA,NA,NA,NA,172.413793103448,68.9655172413793,103.448275862069,NA
 "Croatia","Croatia","HRV","Western and Central Europe","1999",5,2002,"Wheat",169.8,17.8,5.9,5.9,29.7,NA,NA,NA,NA,NA,NA,104.829210836278,34.7467608951708,34.7467608951708,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Alfalfa",68,0.408,0.408,0.34,1.156,NA,NA,NA,NA,NA,NA,6,6,5,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Barley (spring)",230,12.88,3.68,2.76,19.32,NA,NA,NA,NA,NA,NA,56,16,12,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Barley (winter)",168,13.44,2.184,1.176,16.8,NA,NA,NA,NA,NA,NA,80,13,7,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Clover",105,0.105,0.105,0.21,0.42,NA,NA,NA,NA,NA,NA,1,1,2,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Fibre flax",6,0.12,0.138,0.132,0.39,NA,NA,NA,NA,NA,NA,20,23,22,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Field vegetables",1,0.109,0.078,0.139,0.326,NA,NA,NA,NA,NA,NA,109,78,139,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Fodder beet",2,0.178,0.12,0.002,0.3,NA,NA,NA,NA,NA,NA,89,60,1,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Fodder, perennial (other)",80,2.4,0.16,0.16,2.72,NA,NA,NA,NA,NA,NA,30,2,2,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Grassland",517,9.306,0,0,9.306,NA,NA,NA,NA,NA,NA,18,NA,NA,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Green fodder, annual (other)",44,1.628,0.616,0.308,2.552,NA,NA,NA,NA,NA,NA,37,14,7,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Hop",8,1.024,0.336,0.376,1.736,NA,NA,NA,NA,NA,NA,128,42,47,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Maize (for corn)",11,0.913,0.242,0.264,1.419,NA,NA,NA,NA,NA,NA,83,22,24,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Maize, silage",263,27.089,5.786,3.419,36.294,NA,NA,NA,NA,NA,NA,103,22,13,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Mustard",13,0.741,0.078,0.078,0.897,NA,NA,NA,NA,NA,NA,57,6,6,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Oat",26,1.118,0.182,0.104,1.404,NA,NA,NA,NA,NA,NA,43,7,4,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Orchards",7,0.035,0.105,0.028,0.168,NA,NA,NA,NA,NA,NA,5,15,4,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Other crops",12,0.492,0.156,0.144,0.792,NA,NA,NA,NA,NA,NA,41,13,12,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Pasture",214,0.856,0,0,0.856,NA,NA,NA,NA,NA,NA,4,NA,NA,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Pea",32,0.32,0.48,0.736,1.536,NA,NA,NA,NA,NA,NA,10,15,23,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Poppy",49,2.352,0.637,0.833,3.822,NA,NA,NA,NA,NA,NA,48,13,17,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Potato (early)",2,0.152,0.132,0.06,0.344,NA,NA,NA,NA,NA,NA,76,66,30,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Potato (for starch industry)",4,0.44,0.324,0.076,0.84,NA,NA,NA,NA,NA,NA,110,81,19,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Potato (ware)",35,3.325,1.925,2.205,7.455,NA,NA,NA,NA,NA,NA,95,55,63,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Rapeseed",334,49.098,6.346,4.008,59.452,NA,NA,NA,NA,NA,NA,147,19,12,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Rye",51,3.57,0.357,0.204,4.131,NA,NA,NA,NA,NA,NA,70,7,4,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Sugar beet",52,4.68,1.508,2.912,9.1,NA,NA,NA,NA,NA,NA,90,29,56,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Sunflower seed",8,0.472,0.04,0.032,0.544,NA,NA,NA,NA,NA,NA,59,5,4,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Triticale",37,2.59,0.296,0.111,2.997,NA,NA,NA,NA,NA,NA,70,8,3,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Vineyard",1,0,0.065,0.1,0.165,NA,NA,NA,NA,NA,NA,NA,65,100,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Wheat (spring)",40,2.72,0.4,0.32,3.44,NA,NA,NA,NA,NA,NA,68,10,8,NA
-"Czech Rep","Czech Republic","CZE","Western and Central Europe","2000",5,2002,"Wheat (winter)",725,76.85,12.325,9.425,98.6,NA,NA,NA,NA,NA,NA,106,17,13,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Alfalfa",68,0.408,0.408,0.34,1.156,NA,NA,NA,NA,NA,NA,6,6,5,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Barley (spring)",230,12.88,3.68,2.76,19.32,NA,NA,NA,NA,NA,NA,56,16,12,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Barley (winter)",168,13.44,2.184,1.176,16.8,NA,NA,NA,NA,NA,NA,80,13,7,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Clover",105,0.105,0.105,0.21,0.42,NA,NA,NA,NA,NA,NA,1,1,2,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Fibre flax",6,0.12,0.138,0.132,0.39,NA,NA,NA,NA,NA,NA,20,23,22,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Field vegetables",1,0.109,0.078,0.139,0.326,NA,NA,NA,NA,NA,NA,109,78,139,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Fodder beet",2,0.178,0.12,0.002,0.3,NA,NA,NA,NA,NA,NA,89,60,1,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Fodder, perennial (other)",80,2.4,0.16,0.16,2.72,NA,NA,NA,NA,NA,NA,30,2,2,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Grassland",517,9.306,0,0,9.306,NA,NA,NA,NA,NA,NA,18,NA,NA,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Green fodder, annual (other)",44,1.628,0.616,0.308,2.552,NA,NA,NA,NA,NA,NA,37,14,7,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Hop",8,1.024,0.336,0.376,1.736,NA,NA,NA,NA,NA,NA,128,42,47,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Maize (for corn)",11,0.913,0.242,0.264,1.419,NA,NA,NA,NA,NA,NA,83,22,24,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Maize, silage",263,27.089,5.786,3.419,36.294,NA,NA,NA,NA,NA,NA,103,22,13,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Mustard",13,0.741,0.078,0.078,0.897,NA,NA,NA,NA,NA,NA,57,6,6,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Oat",26,1.118,0.182,0.104,1.404,NA,NA,NA,NA,NA,NA,43,7,4,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Orchards",7,0.035,0.105,0.028,0.168,NA,NA,NA,NA,NA,NA,5,15,4,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Other crops",12,0.492,0.156,0.144,0.792,NA,NA,NA,NA,NA,NA,41,13,12,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Pasture",214,0.856,0,0,0.856,NA,NA,NA,NA,NA,NA,4,NA,NA,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Pea",32,0.32,0.48,0.736,1.536,NA,NA,NA,NA,NA,NA,10,15,23,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Poppy",49,2.352,0.637,0.833,3.822,NA,NA,NA,NA,NA,NA,48,13,17,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Potato (early)",2,0.152,0.132,0.06,0.344,NA,NA,NA,NA,NA,NA,76,66,30,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Potato (for starch industry)",4,0.44,0.324,0.076,0.84,NA,NA,NA,NA,NA,NA,110,81,19,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Potato (ware)",35,3.325,1.925,2.205,7.455,NA,NA,NA,NA,NA,NA,95,55,63,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Rapeseed",334,49.098,6.346,4.008,59.452,NA,NA,NA,NA,NA,NA,147,19,12,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Rye",51,3.57,0.357,0.204,4.131,NA,NA,NA,NA,NA,NA,70,7,4,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Sugar beet",52,4.68,1.508,2.912,9.1,NA,NA,NA,NA,NA,NA,90,29,56,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Sunflower seed",8,0.472,0.04,0.032,0.544,NA,NA,NA,NA,NA,NA,59,5,4,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Triticale",37,2.59,0.296,0.111,2.997,NA,NA,NA,NA,NA,NA,70,8,3,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Vineyard",1,0,0.065,0.1,0.165,NA,NA,NA,NA,NA,NA,NA,65,100,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Wheat (spring)",40,2.72,0.4,0.32,3.44,NA,NA,NA,NA,NA,NA,68,10,8,NA
+"Czech Rep","Czechia","CZE","Western and Central Europe","2000",5,2002,"Wheat (winter)",725,76.85,12.325,9.425,98.6,NA,NA,NA,NA,NA,NA,106,17,13,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1999/2000",5,2002,"Barley",826,64,13,25,102,NA,NA,NA,NA,NA,NA,78,16,30,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1999/2000",5,2002,"Fodder (legumes)",228,25,2,15,42,NA,NA,NA,NA,NA,NA,110,10,65,NA
 "Denmark","Denmark","DNK","Western and Central Europe","1999/2000",5,2002,"Fodder (other)",60,9,1,5,15,NA,NA,NA,NA,NA,NA,150,22,75,NA
@@ -4622,7 +4622,7 @@
 "Dominican Republic","Dominican Republic","DOM","Latin America","1998",5,2002,"Sugar cane",256.5,12.3,9.2,9.2,30.7,80,60,60,60,60,60,NA,NA,NA,NA
 "Dominican Republic","Dominican Republic","DOM","Latin America","1998",5,2002,"Tobacco",30.6,2.2,1.5,1.1,4.8,80,60,60,90,90,90,NA,NA,NA,NA
 "Dominican Republic","Dominican Republic","DOM","Latin America","1998",5,2002,"Tomato",12,1.3,0.6,0.9,2.8,120,60,120,90,90,90,NA,NA,NA,NA
-"Dominican Republic","Dominican Republic","DOM","Latin America","1998",5,2002,"Vegetables",28.3,2.3,2.3,1.7,6.3,80,80,60,NA,NA,NA,NA,NA,NA,NA
+"Dominican Republic","Dominican Republic","DOM","Latin America","1998",5,2002,"Vegetables",28.3,2.3,2.3,1.7,6.3,NA,NA,NA,NA,NA,NA,80,80,60,NA
 "Ecuador","Ecuador","ECU","Latin America","1995",5,2002,"Banana",110,23.1,1.5,30.8,55.4,300,20,400,70,70,70,NA,NA,NA,NA
 "Ecuador","Ecuador","ECU","Latin America","1995",5,2002,"Barley",45,0.2,0,0.1,0.3,80,20,60,5,5,5,NA,NA,NA,NA
 "Ecuador","Ecuador","ECU","Latin America","1995",5,2002,"Cassava",20,0,0,0,0,20,20,20,10,10,10,NA,NA,NA,NA
@@ -4779,7 +4779,7 @@
 "Guatemala","Guatemala","GTM","Latin America","1997",5,2002,"Sugar cane",132.3,9.3,7.4,5.3,22,100,80,50,70,70,70,NA,NA,NA,NA
 "Guatemala","Guatemala","GTM","Latin America","1997",5,2002,"Tobacco",8.1,0.4,0.2,0.3,0.9,80,40,40,60,60,60,NA,NA,NA,NA
 "Guatemala","Guatemala","GTM","Latin America","1997",5,2002,"Tomato",5.2,0.4,0.2,0.4,1,90,50,80,90,90,90,NA,NA,NA,NA
-"Guatemala","Guatemala","GTM","Latin America","1997",5,2002,"Vegetables",3.2,0.3,0.3,0.2,0.8,80,80,60,NA,NA,NA,NA,NA,NA,NA
+"Guatemala","Guatemala","GTM","Latin America","1997",5,2002,"Vegetables",3.2,0.3,0.3,0.2,0.8,NA,NA,NA,NA,NA,NA,80,80,60,NA
 "Guatemala","Guatemala","GTM","Latin America","1997",5,2002,"Wheat",12.3,1.2,1,1,3.2,120,80,80,80,80,80,NA,NA,NA,NA
 "Guinea","Guinea","GIN","Africa","1997",5,2002,"Maize",84.7,2.7,2,1.4,6.1,80,60,40,40,40,40,NA,NA,NA,NA
 "Guinea","Guinea","GIN","Africa","1997",5,2002,"Rice",480.1,7.6816,5.8,4.801,18.2826,80,60,50,20,20,20,NA,NA,NA,NA
@@ -4799,7 +4799,7 @@
 "Honduras","Honduras","HND","Latin America","1997",5,2002,"Sugar cane",41.9,6.3,0.8,3.4,10.5,150,40,100,100,100,100,NA,NA,NA,NA
 "Honduras","Honduras","HND","Latin America","1997",5,2002,"Tobacco",6.7,0.5,0.1,0.2,0.8,80,30,40,100,100,100,NA,NA,NA,NA
 "Honduras","Honduras","HND","Latin America","1997",5,2002,"Tomato",4.2,0.4,0.2,0.3,0.9,90,50,80,100,100,100,NA,NA,NA,NA
-"Honduras","Honduras","HND","Latin America","1997",5,2002,"Vegetables",10.2,1,0.6,0.6,2.2,100,60,60,NA,NA,NA,NA,NA,NA,NA
+"Honduras","Honduras","HND","Latin America","1997",5,2002,"Vegetables",10.2,1,0.6,0.6,2.2,NA,NA,NA,NA,NA,NA,100,60,60,NA
 "Honduras","Honduras","HND","Latin America","1997",5,2002,"Wheat",1.3,0,0,0,0,60,40,40,50,50,50,NA,NA,NA,NA
 "Hungary","Hungary","HUN","Western and Central Europe","1999/2000",5,2002,"Apple",99,5.346,2.376,4.158,11.88,NA,NA,NA,NA,NA,NA,54,24,42,NA
 "Hungary","Hungary","HUN","Western and Central Europe","1999/2000",5,2002,"Barley (summer)",40,2.04,0.4,0.6,3.04,NA,NA,NA,NA,NA,NA,51,10,15,NA
@@ -4950,7 +4950,7 @@
 "Kenya","Kenya","KEN","Africa","1997",5,2002,"Sugar cane",58,1.7,1.4,1.2,4.3,60,40,40,50,50,50,NA,NA,NA,NA
 "Kenya","Kenya","KEN","Africa","1997",5,2002,"Tea",117,5.9,1.2,0.9,8,50,10,10,100,100,100,NA,NA,NA,NA
 "Kenya","Kenya","KEN","Africa","1997",5,2002,"Tobacco",8.8,0.2,0.6,0.2,1,30,80,30,80,80,80,NA,NA,NA,NA
-"Kenya","Kenya","KEN","Africa","1997",5,2002,"Vegetables",81.9,4.9,6.6,1.6,13.1,60,80,20,NA,NA,NA,NA,NA,NA,NA
+"Kenya","Kenya","KEN","Africa","1997",5,2002,"Vegetables",81.9,4.9,6.6,1.6,13.1,NA,NA,NA,NA,NA,NA,60,80,20,NA
 "Kenya","Kenya","KEN","Africa","1997",5,2002,"Wheat",135,3.8,8.6,0,12.4,40,80,NA,70,70,70,NA,NA,NA,NA
 "Kuwait","Kuwait","KWT","West Asia","1999",5,2002,"Barley",0.9,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,120,120,120,NA
 "Kuwait","Kuwait","KWT","West Asia","1999",5,2002,"Bean",0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,150,150,150,NA
@@ -4960,14 +4960,14 @@
 "Kuwait","Kuwait","KWT","West Asia","1999",5,2002,"Potato",0.8,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA,NA,150,150,150,NA
 "Kuwait","Kuwait","KWT","West Asia","1999",5,2002,"Tomato",0.5,0.2,0.2,0.1,0.5,NA,NA,NA,NA,NA,NA,450,375,300,NA
 "Kuwait","Kuwait","KWT","West Asia","1999",5,2002,"Wheat",0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,150,150,150,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Cassava",5,0,0,0,0,45,0,0,10,10,10,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Coffee",42,1,0.7,0.3,2,45,35,45,50,50,50,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Maize",10,0.2,0.1,0,0.3,50,25,0,40,40,40,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Rice",690,11.4,3.1,0.2,14.7,55,15,5,30,30,30,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Sugar cane",5,0,0,0,0,60,20,0,10,10,10,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Tea",1,0,0,0,0,55,30,0,10,10,10,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Tobacco",8,0.3,0.1,0,0.4,65,25,15,55,55,55,NA,NA,NA,NA
-"Laos","Lao People�s Democratic Republic","LAO","East Asia","2001",5,2002,"Vegetables",42,0.5,0.3,0.2,1,65,40,25,20,20,20,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Cassava",5,0,0,0,0,45,0,0,10,10,10,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Coffee",42,1,0.7,0.3,2,45,35,45,50,50,50,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Maize",10,0.2,0.1,0,0.3,50,25,0,40,40,40,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Rice",690,11.4,3.1,0.2,14.7,55,15,5,30,30,30,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Sugar cane",5,0,0,0,0,60,20,0,10,10,10,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Tea",1,0,0,0,0,55,30,0,10,10,10,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Tobacco",8,0.3,0.1,0,0.4,65,25,15,55,55,55,NA,NA,NA,NA
+"Laos","Lao People’s Democratic Republic","LAO","East Asia","2001",5,2002,"Vegetables",42,0.5,0.3,0.2,1,65,40,25,20,20,20,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1998",5,2002,"Cereals (incl. pulses)",472.8,0.3,0.1,0.1,0.5,61.2,19.8,26.3,0.9,0.9,0.9,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1998",5,2002,"Flax",2.2,0.1,NA,0.1,0.2,55.3,23.7,27,88.3,88.3,88.3,NA,NA,NA,NA
 "Latvia","Latvia","LVA","Eastern Europe and Central Asia","1998",5,2002,"Fodder roots",13.1,1.5,0.3,0.8,2.6,124.7,27.6,66.8,91.7,91.7,91.7,NA,NA,NA,NA
@@ -5029,7 +5029,7 @@
 "Malawi","Malawi","MWI","Africa","1997",5,2002,"Sorghum",83.9,1,0.3,0.1,1.4,40,15,3,30,30,30,NA,NA,NA,NA
 "Malawi","Malawi","MWI","Africa","1997",5,2002,"Sugar cane",17.5,0.5,0.4,0.1,1,60,40,15,50,50,50,NA,NA,NA,NA
 "Malawi","Malawi","MWI","Africa","1997",5,2002,"Tobacco",114.8,2.8,0.9,1.4,5.1,30,10,15,80,80,80,NA,NA,NA,NA
-"Malawi","Malawi","MWI","Africa","1997",5,2002,"Vegetables",29.6,1.8,1.2,0.3,3.3,60,40,10,NA,NA,NA,NA,NA,NA,NA
+"Malawi","Malawi","MWI","Africa","1997",5,2002,"Vegetables",29.6,1.8,1.2,0.3,3.3,NA,NA,NA,NA,NA,NA,60,40,10,NA
 "Malaysia","Malaysia","MYS","East Asia","2001",5,2002,"Cassava",38,1.6,0.5,0.3,2.4,85,40,45,50,50,50,NA,NA,NA,NA
 "Malaysia","Malaysia","MYS","East Asia","2001",5,2002,"Cocoa",126,15.8,4.9,3.8,24.5,125,65,60,70,70,70,NA,NA,NA,NA
 "Malaysia","Malaysia","MYS","East Asia","2001",5,2002,"Coconut",180,1.2,0.5,0.5,2.2,45,25,25,15,15,15,NA,NA,NA,NA
@@ -5082,7 +5082,7 @@
 "Mexico","Mexico","MEX","Latin America","1997",5,2002,"Sugar cane",630.6,56.8,25.5,20.2,102.5,100,45,40,90,90,90,NA,NA,NA,NA
 "Mexico","Mexico","MEX","Latin America","1997",5,2002,"Tobacco",31.9,0,1.3,1.5,2.8,80,50,60,80,80,80,NA,NA,NA,NA
 "Mexico","Mexico","MEX","Latin America","1997",5,2002,"Tomato",78.8,8.5,7.1,5.7,21.3,120,100,80,90,90,90,NA,NA,NA,NA
-"Mexico","Mexico","MEX","Latin America","1997",5,2002,"Vegetables (other)",303.1,24.2,12.1,9.1,45.4,80,40,30,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Mexico","MEX","Latin America","1997",5,2002,"Vegetables (other)",303.1,24.2,12.1,9.1,45.4,NA,NA,NA,NA,NA,NA,80,40,30,NA
 "Mexico","Mexico","MEX","Latin America","1997",5,2002,"Wheat",768.8,80,24.6,0,104.6,130,40,NA,80,80,80,NA,NA,NA,NA
 "Morocco","Morocco","MAR","Africa","1998",5,2002,"Apple",63.3,4.1,2.9,3,10,NA,NA,NA,NA,NA,NA,65,46,47,NA
 "Morocco","Morocco","MAR","Africa","1998",5,2002,"Cereals",4800,57.6,48,9.6,115.2,NA,NA,NA,NA,NA,NA,12,10,2,NA
@@ -5153,7 +5153,7 @@
 "Nicaragua","Nicaragua","NIC","Latin America","1998",5,2002,"Soybean",18.1,0.1,0.4,0,0.5,15,50,NA,40,40,40,NA,NA,NA,NA
 "Nicaragua","Nicaragua","NIC","Latin America","1998",5,2002,"Sugar cane",53.3,2.6,1.7,1.1,5.4,80,40,40,60,60,60,NA,NA,NA,NA
 "Nicaragua","Nicaragua","NIC","Latin America","1998",5,2002,"Tobacco",1.5,0,0,0,0,40,30,NA,60,60,60,NA,NA,NA,NA
-"Nicaragua","Nicaragua","NIC","Latin America","1998",5,2002,"Vegetables",11.3,0.7,0.7,0.5,1.9,60,60,40,NA,NA,NA,NA,NA,NA,NA
+"Nicaragua","Nicaragua","NIC","Latin America","1998",5,2002,"Vegetables",11.3,0.7,0.7,0.5,1.9,NA,NA,NA,NA,NA,NA,60,60,40,NA
 "Nigeria","Nigeria","NGA","Africa","1996",5,2002,"Cassava",3639,9.8,4,0,13.8,NA,NA,NA,NA,NA,NA,2.7,1.1,NA,NA
 "Nigeria","Nigeria","NGA","Africa","1996",5,2002,"Cotton",368,12.9,0,0,12.9,NA,NA,NA,NA,NA,NA,35.1,0,NA,NA
 "Nigeria","Nigeria","NGA","Africa","1996",5,2002,"Cowpea",5390,2.7,3.2,0,5.9,NA,NA,NA,NA,NA,NA,0.5,0.6,NA,NA
@@ -5197,7 +5197,7 @@ fodder, oilseeds ,etc.)",7322.5,274.1,63.9,8.3,346.3,NA,NA,NA,NA,NA,NA,37.432570
 "Paraguay","Paraguay","PRY","Latin America","1997",5,2002,"Sugar cane",57.8,1.7,1.4,1.2,4.3,60,40,40,50,50,50,NA,NA,NA,NA
 "Paraguay","Paraguay","PRY","Latin America","1997",5,2002,"Sunflower",47.9,1.3,2.3,3.1,6.7,40,60,80,70,70,70,NA,NA,NA,NA
 "Paraguay","Paraguay","PRY","Latin America","1997",5,2002,"Tobacco",7.8,0.1,0.1,0,0.2,30,30,NA,60,60,60,NA,NA,NA,NA
-"Paraguay","Paraguay","PRY","Latin America","1997",5,2002,"Vegetables",20.3,1.6,0.6,0.8,3,80,80,40,NA,NA,NA,NA,NA,NA,NA
+"Paraguay","Paraguay","PRY","Latin America","1997",5,2002,"Vegetables",20.3,1.6,0.6,0.8,3,NA,NA,NA,NA,NA,NA,80,80,40,NA
 "Paraguay","Paraguay","PRY","Latin America","1997",5,2002,"Wheat",200.7,3.2,4,2.4,9.6,40,50,30,40,40,40,NA,NA,NA,NA
 "Philippines","Philippines","PHL","East Asia","2001",5,2002,"Cassava",221,1.7,0.7,0.1,2.5,25,15,10,30,30,30,NA,NA,NA,NA
 "Philippines","Philippines","PHL","East Asia","2001",5,2002,"Cocoa",15,0.6,0.3,0.2,1.1,85,45,45,50,50,50,NA,NA,NA,NA
@@ -5409,26 +5409,26 @@ fodder, oilseeds ,etc.)",7322.5,274.1,63.9,8.3,346.3,NA,NA,NA,NA,NA,NA,37.432570
 "Togo","Togo","TGO","Africa","1997",5,2002,"Rice",51.7,0.5,0.8,0.2,1.5,50,20,20,20,20,20,NA,NA,NA,NA
 "Togo","Togo","TGO","Africa","1997",5,2002,"Sorghum",206.4,0.8,0.6,0.2,1.6,20,15,5,20,20,20,NA,NA,NA,NA
 "Togo","Togo","TGO","Africa","1997",5,2002,"Tobacco",4,0,0,0,0,30,10,15,20,20,20,NA,NA,NA,NA
-"Togo","Togo","TGO","Africa","1997",5,2002,"Vegetables",26.2,1.6,1,0.8,3.4,60,40,30,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Barley",3306,177.4,93.2,0.1,270.7,53.7,28.2,NA,85.3,85.3,85.3,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Cereals",380,25,10,1.3,36.3,65.8,26.3,3.4,71.2,71.2,71.2,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Citrus fruits",100,20.1,5.6,3.4,29.1,201,56,34,98,98,98,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Cotton",718,91.1,27.9,2.5,121.5,126.9,38.9,3.5,98.6,98.6,98.6,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Fodder crops",526,18.6,8,0.3,26.9,35.3,15.2,0.6,53.2,53.2,53.2,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Grape",705,29.9,14,7,50.9,42.4,19.9,9.9,51.9,51.9,51.9,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Hazelnut",535,49.5,10.4,1.5,61.4,92.5,19.4,2.8,88.2,88.2,88.2,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Maize",676,87,21.9,3.4,112.3,128.7,32.4,5,97,97,97,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Olive",623,24.9,8.2,3.3,36.4,46.5,15.3,6.2,53.9,53.9,53.9,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Others",1277,63.6,24.3,6.9,94.8,49.8,19,5.4,75.3,75.3,75.3,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Potato",211,50.4,15.1,5.9,71.4,238.9,71.6,27.5,90.5,90.5,90.5,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Pulses",1301,34.1,23.8,4.1,62,26.2,18.3,3.2,71.5,71.5,71.5,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Soybean",23,0.7,0.2,NA,0.9,30.4,8.7,NA,98.1,98.1,98.1,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Sugar beet",424,46.4,27.2,14.9,88.5,109.4,64.2,35.1,96.1,96.1,96.1,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Sunflower",591,54.6,22.2,2.8,79.6,92.4,37.6,4.7,97.9,97.9,97.9,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Tea",77,16.5,3,5.5,25,214.2,39,71.4,94.2,94.2,94.2,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Tobacco",289,0.9,0.4,1.6,2.9,3.1,1.4,5.5,67.7,67.7,67.7,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Vegetables",824,94.1,41.1,11.1,146.3,102.1,49.9,13.5,87.3,87.3,87.3,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","1999",5,2002,"Wheat",9457,610.8,281.4,5.1,897.3,64.6,29.8,0.5,88.3,88.3,88.3,NA,NA,NA,NA
+"Togo","Togo","TGO","Africa","1997",5,2002,"Vegetables",26.2,1.6,1,0.8,3.4,NA,NA,NA,NA,NA,NA,60,40,30,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Barley",3306,177.4,93.2,0.1,270.7,53.7,28.2,NA,85.3,85.3,85.3,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Cereals",380,25,10,1.3,36.3,65.8,26.3,3.4,71.2,71.2,71.2,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Citrus fruits",100,20.1,5.6,3.4,29.1,201,56,34,98,98,98,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Cotton",718,91.1,27.9,2.5,121.5,126.9,38.9,3.5,98.6,98.6,98.6,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Fodder crops",526,18.6,8,0.3,26.9,35.3,15.2,0.6,53.2,53.2,53.2,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Grape",705,29.9,14,7,50.9,42.4,19.9,9.9,51.9,51.9,51.9,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Hazelnut",535,49.5,10.4,1.5,61.4,92.5,19.4,2.8,88.2,88.2,88.2,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Maize",676,87,21.9,3.4,112.3,128.7,32.4,5,97,97,97,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Olive",623,24.9,8.2,3.3,36.4,46.5,15.3,6.2,53.9,53.9,53.9,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Others",1277,63.6,24.3,6.9,94.8,49.8,19,5.4,75.3,75.3,75.3,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Potato",211,50.4,15.1,5.9,71.4,238.9,71.6,27.5,90.5,90.5,90.5,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Pulses",1301,34.1,23.8,4.1,62,26.2,18.3,3.2,71.5,71.5,71.5,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Soybean",23,0.7,0.2,NA,0.9,30.4,8.7,NA,98.1,98.1,98.1,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Sugar beet",424,46.4,27.2,14.9,88.5,109.4,64.2,35.1,96.1,96.1,96.1,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Sunflower",591,54.6,22.2,2.8,79.6,92.4,37.6,4.7,97.9,97.9,97.9,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Tea",77,16.5,3,5.5,25,214.2,39,71.4,94.2,94.2,94.2,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Tobacco",289,0.9,0.4,1.6,2.9,3.1,1.4,5.5,67.7,67.7,67.7,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Vegetables",824,94.1,41.1,11.1,146.3,102.1,49.9,13.5,87.3,87.3,87.3,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","1999",5,2002,"Wheat",9457,610.8,281.4,5.1,897.3,64.6,29.8,0.5,88.3,88.3,88.3,NA,NA,NA,NA
 "United Kingdom","United Kingdom of Great Britain and Northern Ireland","GBR","Western and Central Europe","1999/2000",5,2002,"Barley",1065,126,47,59,232,NA,NA,NA,NA,NA,NA,118,44,55,NA
 "United Kingdom","United Kingdom of Great Britain and Northern Ireland","GBR","Western and Central Europe","1999/2000",5,2002,"Fodder (other)",60,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,75,55,60,NA
 "United Kingdom","United Kingdom of Great Britain and Northern Ireland","GBR","Western and Central Europe","1999/2000",5,2002,"Grassland (fertilized)",5500,578,99,143,820,NA,NA,NA,NA,NA,NA,105,18,26,NA
@@ -5455,7 +5455,7 @@ fodder, oilseeds ,etc.)",7322.5,274.1,63.9,8.3,346.3,NA,NA,NA,NA,NA,NA,37.432570
 "Tanzania","United Republic of Tanzania","TZA","Africa","1997",5,2002,"Sorghum",622.5,1.2,0.9,0.6,2.7,20,15,5,10,10,10,NA,NA,NA,NA
 "Tanzania","United Republic of Tanzania","TZA","Africa","1997",5,2002,"Tea",19,0.4,0.3,0.3,1,20,20,20,95,95,95,NA,NA,NA,NA
 "Tanzania","United Republic of Tanzania","TZA","Africa","1997",5,2002,"Tobacco",64,1.8,4.1,4.6,10.5,30,80,80,95,95,95,NA,NA,NA,NA
-"Tanzania","United Republic of Tanzania","TZA","Africa","1997",5,2002,"Vegetables",176.6,1.8,1.8,1.8,5.4,10,10,10,NA,NA,NA,NA,NA,NA,NA
+"Tanzania","United Republic of Tanzania","TZA","Africa","1997",5,2002,"Vegetables",176.6,1.8,1.8,1.8,5.4,NA,NA,NA,NA,NA,NA,10,10,10,NA
 "United States","United States of America","USA","North America","1998",5,2002,"Apples",189.2,9.1,3,5.7,17.8,60,40,60,80,80,80,NA,NA,NA,NA
 "United States","United States of America","USA","North America","1998",5,2002,"Apricot",8.7,0.7,0.3,0.3,1.3,110,100,100,70,70,70,NA,NA,NA,NA
 "United States","United States of America","USA","North America","1998",5,2002,"Artichoke",3.9,0.3,0,0.1,0.4,90,55,80,85,85,85,NA,NA,NA,NA
@@ -5528,30 +5528,30 @@ fodder, oilseeds ,etc.)",7322.5,274.1,63.9,8.3,346.3,NA,NA,NA,NA,NA,NA,37.432570
 "Uruguay","Uruguay","URY","Latin America","1998",5,2002,"Soybean",9,0,0.2,0.1,0.3,10,60,30,50,50,50,NA,NA,NA,NA
 "Uruguay","Uruguay","URY","Latin America","1998",5,2002,"Sugar cane",3.1,0.5,0.2,0.4,1.1,150,80,120,100,100,100,NA,NA,NA,NA
 "Uruguay","Uruguay","URY","Latin America","1998",5,2002,"Sunflower",81,3.9,3.9,1.3,9.1,60,60,40,80,80,80,NA,NA,NA,NA
-"Uruguay","Uruguay","URY","Latin America","1998",5,2002,"Vegetables",22.3,1.8,1.8,0.4,4,80,80,20,NA,NA,NA,NA,NA,NA,NA
+"Uruguay","Uruguay","URY","Latin America","1998",5,2002,"Vegetables",22.3,1.8,1.8,0.4,4,NA,NA,NA,NA,NA,NA,80,80,20,NA
 "Uruguay","Uruguay","URY","Latin America","1998",5,2002,"Wheat",193.3,11.6,15.5,3.5,30.6,60,80,20,100,100,100,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Banana",51.9,2.5,1.6,6.2,10.3,120,50,120,40,40,40,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Citrus fruits",35.5,3,1.1,1.3,5.4,120,80,60,70,70,70,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Cocoa",62.1,1.5,1,0.2,2.7,120,40,20,20,20,20,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Coffee",179.4,21.5,4.3,2.9,28.7,200,60,80,60,60,60,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Cotton",48.1,2.9,2.3,1.2,6.4,100,60,60,60,60,60,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Dry beans",41.8,1.5,1,0.3,2.8,60,60,20,60,60,60,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Maize",423.6,33.9,10.2,7.6,51.7,100,40,30,80,80,80,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Oil Palm",28.1,1.4,0.9,2.2,4.5,60,40,100,85,85,85,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Pasture",12000,30,4.8,9.6,44.4,50,20,40,5,5,5,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Plantain",61.3,2,0.9,1,3.9,80,30,80,40,40,40,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Potato",17.9,1.1,1.1,0.4,2.6,100,80,40,60,60,60,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Pulses",47.8,1.1,2.7,1.1,4.9,60,80,60,40,40,40,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Rice, paddy",172.9,23.3,8.3,6.2,37.8,150,60,40,90,90,90,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Sesame",44.5,2.1,2.8,2.1,7,60,80,60,80,80,80,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Sorghum",232,18.6,5.6,7.4,31.6,100,40,40,80,80,80,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Soybean",2.2,0,0,0.1,0.1,20,40,60,60,60,60,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Sugar cane",104.2,10.9,8.3,7.3,26.5,150,100,100,70,70,70,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Sunflower",7.9,0.3,0.3,0.1,0.7,60,60,40,60,60,60,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Tobacco",8.6,1,0.2,0.1,1.3,120,40,30,100,100,100,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Tomato",12.5,1.9,0.7,0.4,3,150,80,40,100,100,100,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Vegetables",64.4,5.2,3.9,2.6,11.7,80,60,40,NA,NA,NA,NA,NA,NA,NA
-"Venezuela","Venezuela, Bolivarian Republic of","VEN","Latin America","1997",5,2002,"Wheat",1.3,0.1,0,0,0.1,80,40,20,60,60,60,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Banana",51.9,2.5,1.6,6.2,10.3,120,50,120,40,40,40,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Citrus fruits",35.5,3,1.1,1.3,5.4,120,80,60,70,70,70,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Cocoa",62.1,1.5,1,0.2,2.7,120,40,20,20,20,20,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Coffee",179.4,21.5,4.3,2.9,28.7,200,60,80,60,60,60,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Cotton",48.1,2.9,2.3,1.2,6.4,100,60,60,60,60,60,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Dry beans",41.8,1.5,1,0.3,2.8,60,60,20,60,60,60,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Maize",423.6,33.9,10.2,7.6,51.7,100,40,30,80,80,80,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Oil Palm",28.1,1.4,0.9,2.2,4.5,60,40,100,85,85,85,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Pasture",12000,30,4.8,9.6,44.4,50,20,40,5,5,5,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Plantain",61.3,2,0.9,1,3.9,80,30,80,40,40,40,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Potato",17.9,1.1,1.1,0.4,2.6,100,80,40,60,60,60,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Pulses",47.8,1.1,2.7,1.1,4.9,60,80,60,40,40,40,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Rice, paddy",172.9,23.3,8.3,6.2,37.8,150,60,40,90,90,90,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Sesame",44.5,2.1,2.8,2.1,7,60,80,60,80,80,80,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Sorghum",232,18.6,5.6,7.4,31.6,100,40,40,80,80,80,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Soybean",2.2,0,0,0.1,0.1,20,40,60,60,60,60,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Sugar cane",104.2,10.9,8.3,7.3,26.5,150,100,100,70,70,70,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Sunflower",7.9,0.3,0.3,0.1,0.7,60,60,40,60,60,60,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Tobacco",8.6,1,0.2,0.1,1.3,120,40,30,100,100,100,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Tomato",12.5,1.9,0.7,0.4,3,150,80,40,100,100,100,NA,NA,NA,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Vegetables",64.4,5.2,3.9,2.6,11.7,NA,NA,NA,NA,NA,NA,80,60,40,NA
+"Venezuela","Venezuela (Bolivarian Republic of)","VEN","Latin America","1997",5,2002,"Wheat",1.3,0.1,0,0,0.1,80,40,20,60,60,60,NA,NA,NA,NA
 "Vietnam","Viet Nam","VNM","East Asia","1999",5,2002,"Cassava",227,9.9,6.9,0.5,17.3,60,45,10,70,70,70,NA,NA,NA,NA
 "Vietnam","Viet Nam","VNM","East Asia","1999",5,2002,"Coconut",164,1.8,1,0,2.8,75,60,0,15,15,15,NA,NA,NA,NA
 "Vietnam","Viet Nam","VNM","East Asia","1999",5,2002,"Coffee",360,59.9,25.9,53.5,139.3,175,80,165,90,90,90,NA,NA,NA,NA
@@ -5994,28 +5994,28 @@ fodder, oilseeds ,etc.)",7322.5,274.1,63.9,8.3,346.3,NA,NA,NA,NA,NA,NA,37.432570
 "Thailand","Thailand","THA","East Asia","2007",6,2009,"Sugar crops",NA,43.6,27.6,39.65,110.85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Thailand","Thailand","THA","East Asia","2006",6,2009,"Wheat",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Thailand","Thailand","THA","East Asia","2007",6,2009,"Wheat",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Cottonseed",NA,75.978,31.46,4.158,111.596,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Cottonseed",NA,73.224,26.832,4.578,104.634,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Fruit and vegetables",NA,230.52,74.304,44.036,348.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Fruit and vegetables",NA,239.19,87.12,39.996,366.306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Maize",NA,95.676,28.435,6.039,130.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Maize",NA,92.208,24.252,6.649,123.109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Other cereals",NA,170.247,79.255,2.871,252.373,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Other cereals",NA,164.076,67.596,3.161,234.833,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Other crops",NA,130.176,62.436,13.08,205.692,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Other crops",NA,135.072,73.2049999999999,11.88,220.157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Other oil seed",NA,62.376,22.704,5.886,90.966,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Other oil seed",NA,64.722,26.62,5.346,96.688,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Rice",NA,12.663,5.445,0.495,18.603,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Rice",NA,12.204,4.644,0.545,17.393,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Soybeans",NA,1.407,0.605,0.099,2.111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Soybeans",NA,1.356,0.516,0.109,1.981,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Sugar crops",NA,27.12,17.544,14.388,59.052,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Sugar crops",NA,28.14,20.57,13.068,61.778,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2006",6,2009,"Wheat",NA,583.905,252.285,15.048,851.238,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2007",6,2009,"Wheat",NA,562.74,215.172,16.568,794.48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Cottonseed",NA,75.978,31.46,4.158,111.596,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Cottonseed",NA,73.224,26.832,4.578,104.634,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Fruit and vegetables",NA,230.52,74.304,44.036,348.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Fruit and vegetables",NA,239.19,87.12,39.996,366.306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Maize",NA,95.676,28.435,6.039,130.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Maize",NA,92.208,24.252,6.649,123.109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Other cereals",NA,170.247,79.255,2.871,252.373,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Other cereals",NA,164.076,67.596,3.161,234.833,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Other crops",NA,130.176,62.436,13.08,205.692,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Other crops",NA,135.072,73.2049999999999,11.88,220.157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Other oil seed",NA,62.376,22.704,5.886,90.966,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Other oil seed",NA,64.722,26.62,5.346,96.688,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Rice",NA,12.663,5.445,0.495,18.603,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Rice",NA,12.204,4.644,0.545,17.393,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Soybeans",NA,1.407,0.605,0.099,2.111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Soybeans",NA,1.356,0.516,0.109,1.981,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Sugar crops",NA,27.12,17.544,14.388,59.052,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Sugar crops",NA,28.14,20.57,13.068,61.778,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2006",6,2009,"Wheat",NA,583.905,252.285,15.048,851.238,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2007",6,2009,"Wheat",NA,562.74,215.172,16.568,794.48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "United States","United States of America","USA","North America","2007",6,2009,"Cottonseed",NA,255.42,110.16,136.2,501.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "United States","United States of America","USA","North America","2006",6,2009,"Cottonseed",NA,287.28,128.588,153.681,569.549,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "United States","United States of America","USA","North America","2007",6,2009,"Fruit and vegetables",NA,510.84,244.8,308.72,1064.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6333,19 +6333,19 @@ fodder, oilseeds ,etc.)",7322.5,274.1,63.9,8.3,346.3,NA,NA,NA,NA,NA,NA,37.432570
 "Thailand","Thailand","THA","East Asia","2010",7,2013,"Sugar crops",NA,120.612,51.17,80.6,252.382,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Thailand","Thailand","THA","East Asia","2010",7,2013,"Vegetables",NA,131.1,30.1,34.1,195.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Thailand","Thailand","THA","East Asia","2010",7,2013,"Wheat",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Fibre crops",NA,44.352,13.905,2.016,60.273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Fruit",NA,134.4,41.2,16.8,192.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Maize",NA,116.928,37.08,4.788,158.796,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Other cereals",NA,163.968,65.405,5.544,234.917,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Other crops",NA,91.3920000000002,48.925,5.964,146.281,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Other oil seed",NA,72.576,26.78,4.032,103.388,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Rice",NA,10.752,3.09,0.336,14.178,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Roots/tubers",NA,24.192,10.3,4.2,38.692,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Soybeans",NA,1.344,1.03,0,2.374,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Sugar crops",NA,30.912,16.995,8.064,55.971,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Vegetables",NA,94.08,30.9,13.44,138.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2010",7,2013,"Wheat",NA,559.104,219.39,18.816,797.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Fibre crops",NA,44.352,13.905,2.016,60.273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Fruit",NA,134.4,41.2,16.8,192.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Maize",NA,116.928,37.08,4.788,158.796,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Other cereals",NA,163.968,65.405,5.544,234.917,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Other crops",NA,91.3920000000002,48.925,5.964,146.281,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Other oil seed",NA,72.576,26.78,4.032,103.388,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Rice",NA,10.752,3.09,0.336,14.178,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Roots/tubers",NA,24.192,10.3,4.2,38.692,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Soybeans",NA,1.344,1.03,0,2.374,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Sugar crops",NA,30.912,16.995,8.064,55.971,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Vegetables",NA,94.08,30.9,13.44,138.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2010",7,2013,"Wheat",NA,559.104,219.39,18.816,797.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Ukraine","Ukraine","UKR","Eastern Europe and Central Asia","2010",7,2013,"Fibre crops",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Ukraine","Ukraine","UKR","Eastern Europe and Central Asia","2010",7,2013,"Fruit",NA,1.95,1.02,0.88,3.85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Ukraine","Ukraine","UKR","Eastern Europe and Central Asia","2010",7,2013,"Maize",NA,116.35,26.35,17.93,160.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6706,20 +6706,20 @@ fodder, oilseeds ,etc.)",7322.5,274.1,63.9,8.3,346.3,NA,NA,NA,NA,NA,NA,37.432570
 "Thailand","Thailand","THA","East Asia","2014",8,2017,"Sugar crops",NA,84.534,49.77,90.328,224.632,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Thailand","Thailand","THA","East Asia","2014",8,2017,"Vegetables",NA,70.445,34.839,38.712,143.996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Thailand","Thailand","THA","East Asia","2014",8,2017,"Wheat",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Fibre crops",NA,49.2624,15.3954,2.6956,67.3534,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Fruit",NA,149.28,45.616,29.3,224.196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Grassland",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Maize",NA,119.424,39.914,8.79,168.128,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Other cereals",NA,164.208,68.424,3.516,236.148,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Other crops",NA,111.66144,53.76986,9.84480000000001,175.2761,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Other oil seed",NA,82.104,31.361,7.032,120.497,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Rice",NA,14.928,4.5616,1.758,21.2476,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Roots/tubers",NA,22.392,10.2636,8.79,41.4456,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Soybeans",NA,2.2392,1.7106,0.9376,4.8874,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Sugar crops",NA,30.90096,16.93494,15.236,63.0719,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Vegetables",NA,119.424,37.063,23.44,179.927,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Turkey","Turkey","TUR","West Asia","2014",8,2017,"Wheat",NA,626.976,245.186,5.86,878.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Fibre crops",NA,49.2624,15.3954,2.6956,67.3534,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Fruit",NA,149.28,45.616,29.3,224.196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Grassland",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Maize",NA,119.424,39.914,8.79,168.128,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Oil palm",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Other cereals",NA,164.208,68.424,3.516,236.148,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Other crops",NA,111.66144,53.76986,9.84480000000001,175.2761,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Other oil seed",NA,82.104,31.361,7.032,120.497,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Rice",NA,14.928,4.5616,1.758,21.2476,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Roots/tubers",NA,22.392,10.2636,8.79,41.4456,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Soybeans",NA,2.2392,1.7106,0.9376,4.8874,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Sugar crops",NA,30.90096,16.93494,15.236,63.0719,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Vegetables",NA,119.424,37.063,23.44,179.927,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Turkey","Türkiye","TUR","West Asia","2014",8,2017,"Wheat",NA,626.976,245.186,5.86,878.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Ukraine","Ukraine","UKR","Eastern Europe and Central Asia","2014",8,2017,"Fibre crops",NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Ukraine","Ukraine","UKR","Eastern Europe and Central Asia","2014",8,2017,"Fruit",NA,5.903,2.139,2.251,10.293,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Ukraine","Ukraine","UKR","Eastern Europe and Central Asia","2014",8,2017,"Grassland",NA,23.612,4.278,4.502,32.392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
